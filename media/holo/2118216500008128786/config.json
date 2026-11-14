@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "把写 X 长文的流程做成 Skill：语料、配图、封面整套开源",
+  "subtitle": "AI工具",
+  "technique": "JessiCao",
+  "tagline": "@JessiCao_JC",
+  "edition": "012 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "开源爆款长文 skill：填语料和配图风格，产出标题、正文、插图、封面和 Hook。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2118216500008128786/subject.png",
+    "background": "media/holo/2118216500008128786/background.webp",
+    "text": "media/holo/2118216500008128786/text.png",
+    "lineart": "media/holo/2118216500008128786/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

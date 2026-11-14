@@ -27,7 +27,10 @@ python3 -m http.server
 ## 目录说明
 
 - `index.html`：页面入口
-- `css/styles.css`、`js/app.js`：样式与交互
+- `css/styles.css`、`js/app.js`、`js/holo-studio.js`：样式与交互；当前卡片由官方镭射查看器以三维卡呈现
+- `vendor/holo-card-studio/`：官方流水线导出的 `card.glb` 与 MIT 许可声明
+- `vendor/three/`：Three.js 0.180.0（与官方查看器同一版本）
+- `media/holo/`：每张收藏卡的官方四图层（主体、背景、线稿、文字）
 - `data/cards.json`：全部收藏卡数据
 - `data/articles/`：较长文章的全文（点「阅读全文」时再加载）
 - `media/`：封面与配图（已压缩为 WebP）
@@ -38,5 +41,7 @@ python3 -m http.server
 - 顶部芯片可按分类筛选，数字是当前可见数量
 - 搜索框匹配标题、作者、简介和笔记
 - 左右滑动、两侧箭头或键盘方向键切换卡片
-- 点按卡片翻转，查看笔记、摘要、配图和原帖链接
+- 拖动卡片看镭射光泽；点按或「翻转」看背面；「阅读」打开全文
 - `Esc` 关闭全文或图片，或把已翻转的卡片翻回来
+
+镭射箔面来自 [Holo Card Studio](https://github.com/EverettFish/holo-card-studio)（MIT，Copyright 2026 Holo Card Studio contributors）：官方 Blender 流水线导出的三维卡，以及官方 Three.js 着色器（光谱箔、星点、掠射光、景深视差与 bloom）。本站只保留自己的「月青藏柜」界面，并按收藏卡切换图层。若系统开启了「减少动态效果」，箔面动画会静止。

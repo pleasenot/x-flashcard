@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "AMD AI 开发者计划：免费领 100 美元 MI300X 算力额度",
+  "subtitle": "羊毛福利",
+  "technique": "明子206",
+  "tagline": "@mingzi206",
+  "edition": "010 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "加入 AMD AI Developer Program 后可申请约 100 美元 Developer Cloud 额度（帖称约等于 25 小时顶级 GPU），需审核，激活后限期使用。互动数据截至 2026-11-09 深夜。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2119721827522228677/subject.png",
+    "background": "media/holo/2119721827522228677/background.webp",
+    "text": "media/holo/2119721827522228677/text.png",
+    "lineart": "media/holo/2119721827522228677/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

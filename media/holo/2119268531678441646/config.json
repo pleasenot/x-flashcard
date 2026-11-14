@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "Pinky：让任何 AI Agent 操作你的 iPhone 和安卓手机",
+  "subtitle": "AI工具",
+  "technique": "DIYgod",
+  "tagline": "@DIYgod",
+  "edition": "048 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "开源免费，Apache-2.0 许可。付款前等你点头，银行钱包类 App 默认对 AI 不可见，每一步都录屏。目前是早期测试版。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2119268531678441646/subject.png",
+    "background": "media/holo/2119268531678441646/background.webp",
+    "text": "media/holo/2119268531678441646/text.png",
+    "lineart": "media/holo/2119268531678441646/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

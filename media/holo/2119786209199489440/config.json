@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "魔搭 × AMD 联合激励：国内秒开白嫖 AMD 大显存",
+  "subtitle": "羊毛福利",
+  "technique": "明子206",
+  "tagline": "@mingzi206",
+  "edition": "009 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "魔搭社区绑定阿里云，参加 AMD 与 ModelScope 联合激励，起步约 100 小时 AMD 算力，再叠加魔搭自带额度。帖内称控制台可见约 48GB 显存档；互动数据截至 2026-11-09 深夜。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2119786209199489440/subject.png",
+    "background": "media/holo/2119786209199489440/background.webp",
+    "text": "media/holo/2119786209199489440/text.png",
+    "lineart": "media/holo/2119786209199489440/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

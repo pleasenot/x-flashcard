@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "Grok Bot hook forensics：14 天约 350 万浏览",
+  "subtitle": "AI工具",
+  "technique": "Avid",
+  "tagline": "@Av1dlive",
+  "edition": "027 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "用 bot 研究爆款开场钩子、沉淀公式再写帖；作者自称 14 天约 350 万浏览。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2114813307790266739/subject.png",
+    "background": "media/holo/2114813307790266739/background.webp",
+    "text": "media/holo/2114813307790266739/text.png",
+    "lineart": "media/holo/2114813307790266739/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "玩 Grok Bot 必须知道的 5 个网站",
+  "subtitle": "AI工具",
+  "technique": "xiaomovps",
+  "tagline": "@xiaomovps",
+  "edition": "031 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "整理 Grok Bot 相关必看网站与资源入口。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2114957568326185344/subject.png",
+    "background": "media/holo/2114957568326185344/background.webp",
+    "text": "media/holo/2114957568326185344/text.png",
+    "lineart": "media/holo/2114957568326185344/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

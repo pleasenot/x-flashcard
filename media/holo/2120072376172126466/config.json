@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "AI原创虚拟产品+AI赋能小红书运营陪跑5.0",
+  "subtitle": "小程序",
+  "technique": "裴同学",
+  "tagline": "@LucasPei181034",
+  "edition": "006 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "大家好，我是裴同学。 最近这段时间，我们公司最明显的变化是：很多以前要人干的活，交给了 AI。 以前做小红书虚拟，我们大部分精力都花在刷榜单选品、找资料整理资料…",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2120072376172126466/subject.png",
+    "background": "media/holo/2120072376172126466/background.webp",
+    "text": "media/holo/2120072376172126466/text.png",
+    "lineart": "media/holo/2120072376172126466/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

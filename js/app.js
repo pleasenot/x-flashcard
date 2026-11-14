@@ -174,6 +174,7 @@
             <span class="flip-hint">点按翻转</span>
           </div>
         </div>
+        <span class="holo-layer" aria-hidden="true"></span>
       </div>`;
   }
 
@@ -206,6 +207,7 @@
           <a class="${linkClass}" href="${esc(card.url)}" target="_blank" rel="noopener noreferrer">打开原帖</a>
           <button type="button" class="action-btn js-unflip">返回正面</button>
         </div>
+        <span class="holo-layer" aria-hidden="true"></span>
       </div>`;
   }
 
@@ -259,6 +261,7 @@
       els.prevBtn.disabled = true;
       els.nextBtn.disabled = true;
       els.pagerThumb.style.width = "0%";
+      hideHolo();
       return;
     }
 
@@ -284,6 +287,7 @@
     els.prevBtn.disabled = state.index <= 0;
     els.nextBtn.disabled = state.index >= list.length - 1;
     syncUrl();
+    syncHolo();
   }
 
   function go(delta) {
@@ -301,12 +305,104 @@
     return list[state.index] || null;
   }
 
+
+  let holoToken = 0;
+  let holoMounted = false;
+
+  function holoConfigFor(card, index, total) {
+    const id = card.id;
+    return {
+      title: card.title,
+      subtitle: card.cat || "收藏",
+      technique: card.author || "",
+      tagline: card.handle ? "@" + card.handle : "",
+      edition: String(index + 1).padStart(3, "0") + " / " + String(total).padStart(3, "0"),
+      collection: "X 帖子收藏卡",
+      description: card.summary || "",
+      parameters: { subjectScale: 1.08, subjectDepth: 0.35, backgroundDepth: -0.22, foil: 1, particles: 1, glow: 0.85 },
+      safeArea: { scale: 1.08, offset: [0, 0.02] },
+      assets: {
+        subject: "media/holo/" + id + "/subject.png",
+        background: "media/holo/" + id + "/background.webp",
+        text: "media/holo/" + id + "/text.png",
+        lineart: "media/holo/" + id + "/lineart.webp",
+        model: "vendor/holo-card-studio/card.glb"
+      }
+    };
+  }
+
+  function hideHolo() {
+    if (els.holoStage) els.holoStage.hidden = true;
+    if (els.holoActions) els.holoActions.hidden = true;
+    if (els.deckWrap) els.deckWrap.classList.remove("has-holo");
+  }
+
+  function updateHoloButtons() {
+    if (els.holoFlip) els.holoFlip.textContent = state.flipped ? "正面" : "翻转";
+    if (els.holoAuto) {
+      const on = !!(window.HoloCard && window.HoloCard.auto);
+      els.holoAuto.setAttribute("aria-pressed", String(on));
+      els.holoAuto.textContent = on ? "停转" : "巡光";
+    }
+  }
+
+  async function ensureHolo() {
+    if (!els.holoStage) return null;
+    for (let i = 0; i < 40 && !window.HoloCard; i += 1) {
+      await new Promise((r) => setTimeout(r, 50));
+    }
+    const H = window.HoloCard;
+    if (!H) return null;
+    if (!holoMounted) {
+      await H.mount(els.holoStage, {
+        onSwipe: (delta) => go(delta),
+        onFlip: (flipped) => {
+          state.flipped = flipped;
+          updateHoloButtons();
+          syncUrl();
+        },
+        onClick: () => toggleFlip()
+      });
+      holoMounted = true;
+    }
+    return H;
+  }
+
+  async function syncHolo() {
+    const list = filtered();
+    const card = currentCard();
+    if (!card || !list.length) {
+      hideHolo();
+      return;
+    }
+    const token = ++holoToken;
+    try {
+      const H = await ensureHolo();
+      if (!H || token !== holoToken) return;
+      els.holoStage.hidden = false;
+      if (els.holoActions) els.holoActions.hidden = false;
+      if (els.deckWrap) els.deckWrap.classList.add("has-holo");
+      await H.load(holoConfigFor(card, state.index, list.length));
+      if (token !== holoToken) return;
+      if (state.flipped && !H.flipped) H.flip(true);
+      if (!state.flipped && H.flipped) H.flip(false);
+      updateHoloButtons();
+    } catch (err) {
+      console.error(err);
+      if (token === holoToken) hideHolo();
+    }
+  }
+
   function toggleFlip(force) {
+    const next = typeof force === "boolean" ? force : !state.flipped;
+    state.flipped = next;
     const cardEl = els.deck.querySelector('.card-slot[data-slot="0"] .card');
-    if (!cardEl) return;
-    state.flipped = typeof force === "boolean" ? force : !state.flipped;
-    cardEl.classList.toggle("is-flipped", state.flipped);
-    cardEl.setAttribute("aria-pressed", String(state.flipped));
+    if (cardEl) {
+      cardEl.classList.toggle("is-flipped", state.flipped);
+      cardEl.setAttribute("aria-pressed", String(state.flipped));
+    }
+    if (window.HoloCard && window.HoloCard.ready) window.HoloCard.flip(next);
+    updateHoloButtons();
     syncUrl();
   }
 
@@ -375,6 +471,7 @@
       m.content = isDark ? "#0C1018" : "#E7ECF5";
     });
     els.themeToggle.setAttribute("aria-label", isDark ? "切换为浅色主题" : "切换为深色主题");
+    if (window.HoloCard) window.HoloCard.setTheme();
     if (state.cards.length) syncUrl();
   }
   function toggleTheme() {
@@ -598,6 +695,17 @@
 
     // prevent image drag ghost
     els.deck.addEventListener("dragstart", (e) => e.preventDefault());
+
+    if (els.holoFlip) els.holoFlip.addEventListener("click", () => toggleFlip());
+    if (els.holoAuto) els.holoAuto.addEventListener("click", () => {
+      if (!window.HoloCard) return;
+      window.HoloCard.setAuto(!window.HoloCard.auto);
+      updateHoloButtons();
+    });
+    if (els.holoRead) els.holoRead.addEventListener("click", () => {
+      const card = currentCard();
+      if (card) openReader(card);
+    });
   }
 
   async function init() {
@@ -619,6 +727,12 @@
     els.readerFoot = document.getElementById("readerFoot");
     els.lightbox = document.getElementById("lightbox");
     els.lightboxImg = document.getElementById("lightboxImg");
+    els.holoStage = document.getElementById("holoStage");
+    els.holoActions = document.getElementById("holoActions");
+    els.holoFlip = document.getElementById("holoFlip");
+    els.holoAuto = document.getElementById("holoAuto");
+    els.holoRead = document.getElementById("holoRead");
+    els.deckWrap = document.querySelector(".deck-wrap");
 
     const params = new URLSearchParams(location.search);
     const themeParam = params.get("theme");

@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "白嫖 Simular Box：免费云 Linux 桌面，MCP 接 AI",
+  "subtitle": "羊毛福利",
+  "technique": "Levi 卧云",
+  "tagline": "@Leviwoyun",
+  "edition": "008 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "介绍 box.simular.ai 免费云 Linux 桌面，可用 MCP 接入 AI；帖称约 4 核 8GB，官网未写规格。桌面本身免费，模型调用走每日额度。互动数据截至 2026-11-09 深夜。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2119216778006196592/subject.png",
+    "background": "media/holo/2119216778006196592/background.webp",
+    "text": "media/holo/2119216778006196592/text.png",
+    "lineart": "media/holo/2119216778006196592/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

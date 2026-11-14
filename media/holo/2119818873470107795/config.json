@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "Antigravity 调度 Colab G4 跑 MiniMax-H3 短剧工作流",
+  "subtitle": "AI视频",
+  "technique": "Nathan AI Lab",
+  "tagline": "@KOF97AI",
+  "edition": "037 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "用 Antigravity 调度 Colab G4 GPU 跑 MiniMax-H3：自动拉起、挂载云盘、跑完自动关机防幽灵扣费；帖内给了授权与日常渲染命令。互动数据截至 2026-11-09 深夜。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2119818873470107795/subject.png",
+    "background": "media/holo/2119818873470107795/background.webp",
+    "text": "media/holo/2119818873470107795/text.png",
+    "lineart": "media/holo/2119818873470107795/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

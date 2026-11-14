@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "无限流数字人口播教程及项目开源",
+  "subtitle": "AI视频",
+  "technique": "岚叔",
+  "tagline": "@LufzzLiz",
+  "edition": "019 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "先做人物母片镜头库，新口播只花配音和对口型；作者称短口播多风格成本很低。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2116848033526935596/subject.png",
+    "background": "media/holo/2116848033526935596/background.webp",
+    "text": "media/holo/2116848033526935596/text.png",
+    "lineart": "media/holo/2116848033526935596/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

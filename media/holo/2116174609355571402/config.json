@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "把任意机器做成可拆开的 3D 模拟器",
+  "subtitle": "AI视频",
+  "technique": "Elvar",
+  "tagline": "@elvar_official",
+  "edition": "023 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "免费 Claude Code Skill：给机器名和参考图，生成可剖切、可拆零件的 HTML 模拟器并可导出成片。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2116174609355571402/subject.png",
+    "background": "media/holo/2116174609355571402/background.webp",
+    "text": "media/holo/2116174609355571402/text.png",
+    "lineart": "media/holo/2116174609355571402/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "用 Claude + H3 一个人拍 AI 短剧：实战教程，附提示词和技能包",
+  "subtitle": "AI视频",
+  "technique": "Miller",
+  "tagline": "@TuyetloanP81840",
+  "edition": "041 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "Claude 写剧本分镜，H3 出画面的 AI 短剧流程。拆解时发现正文是未完成草稿，带占位内容，技能包没有许可证。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2119326884505043274/subject.png",
+    "background": "media/holo/2119326884505043274/background.webp",
+    "text": "media/holo/2119326884505043274/text.png",
+    "lineart": "media/holo/2119326884505043274/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

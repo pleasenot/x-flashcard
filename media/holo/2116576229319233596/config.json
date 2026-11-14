@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "Grok Bot 高质量 bot 团队短指南",
+  "subtitle": "AI工具",
+  "technique": "lauren",
+  "tagline": "@poteto",
+  "edition": "020 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "Grok Bot 团队成员谈：bot 贵精不贵多、教完存成技能、接好连接器与密码库、能自动化就交给 bot。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2116576229319233596/subject.png",
+    "background": "media/holo/2116576229319233596/background.webp",
+    "text": "media/holo/2116576229319233596/text.png",
+    "lineart": "media/holo/2116576229319233596/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

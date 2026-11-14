@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "How to build motion design studio with Opus 5.5（完整课程）",
+  "subtitle": "AI视频",
+  "technique": "Movez",
+  "tagline": "@0xMovez",
+  "edition": "039 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "AI 写网页动画程序，无头浏览器逐帧截图，ffmpeg 拼成视频。12 步：给参考、写分镜状态清单、弹簧动效、代码合成配乐卡节拍、让 AI 看自己渲染的帧打分修改。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2104216919033192746/subject.png",
+    "background": "media/holo/2104216919033192746/background.webp",
+    "text": "media/holo/2104216919033192746/text.png",
+    "lineart": "media/holo/2104216919033192746/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

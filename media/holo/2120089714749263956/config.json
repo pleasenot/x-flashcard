@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "闲鱼¥85一套卖了 3000 单！手把手教你用即梦、豆包做动态表情包接单搞钱，全套提示词+脚本开源！",
+  "subtitle": "AI视频",
+  "technique": "AYi",
+  "tagline": "@AYi_AInotes",
+  "edition": "005 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "大家知道做表情包到底有多赚钱吗？闲鱼上一个普通的微信动态表情定制商品，券后 85 块一套，单店已售 3000+ 单，光这一个链接就跑出了 25 万+ 的流水；另…",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2120089714749263956/subject.png",
+    "background": "media/holo/2120089714749263956/background.webp",
+    "text": "media/holo/2120089714749263956/text.png",
+    "lineart": "media/holo/2120089714749263956/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

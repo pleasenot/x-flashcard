@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "How to build a 2.5D motion studio with Opus 5.5（完整课程）",
+  "subtitle": "AI视频",
+  "technique": "Dumble",
+  "tagline": "@Y0urDumble",
+  "edition": "040 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "扁平 2D 角色加 Blender 打光 3D 场景的竖屏历史科普短片流程：选题事实、脚本分镜、Whisper 逐词字幕、Remotion 合成、声音检查、局部重渲染。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2115164938884862375/subject.png",
+    "background": "media/holo/2115164938884862375/background.webp",
+    "text": "media/holo/2115164938884862375/text.png",
+    "lineart": "media/holo/2115164938884862375/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

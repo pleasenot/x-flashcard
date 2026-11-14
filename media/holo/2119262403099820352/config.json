@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "让 Muse 自己去白嫖显卡：Colab T4 + Kaggle T4×2",
+  "subtitle": "羊毛福利",
+  "technique": "Hong&哈士鹅",
+  "tagline": "@clenusgrok",
+  "edition": "007 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "作者让 Muse 自助调研并注册免费 GPU：拿到 Colab Tesla T4 与 Kaggle T4×2（每周约 30 小时 GPU，另有约 20 小时 TPU）。零绑卡、零证件。互动数据截至 2026-11-09 深夜。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2119262403099820352/subject.png",
+    "background": "media/holo/2119262403099820352/background.webp",
+    "text": "media/holo/2119262403099820352/text.png",
+    "lineart": "media/holo/2119262403099820352/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

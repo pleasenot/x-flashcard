@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "巧用 Codex image2.6，0 成本 AI 视频生成：从隐喻到成片的全流程",
+  "subtitle": "AI视频",
+  "technique": "狗哥笔记",
+  "tagline": "@gbroai",
+  "edition": "043 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "接口只拿到标题，没拿到正文。作者自称开源 skill gbro-collage-broll 的作者。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2118589683819262346/subject.png",
+    "background": "media/holo/2118589683819262346/background.webp",
+    "text": "media/holo/2118589683819262346/text.png",
+    "lineart": "media/holo/2118589683819262346/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

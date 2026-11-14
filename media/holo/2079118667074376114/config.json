@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "video-shotcraft：用 Claude Code 做产品发布宣传片质感动效",
+  "subtitle": "AI视频",
+  "technique": "Vincent文森特",
+  "tagline": "@VincentWei93",
+  "edition": "038 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "开源 Apache-2.0 skill（GitHub 约 1.8 万星）。给产品网址/截图和文案，agent 用 Remotion 抓真实页面、从约 124 张镜头配方卡排分镜、踩点剪辑、配音效，可导出 MP4 和剪映草稿。每帧是代码画的，不是生成视频。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2079118667074376114/subject.png",
+    "background": "media/holo/2079118667074376114/background.webp",
+    "text": "media/holo/2079118667074376114/text.png",
+    "lineart": "media/holo/2079118667074376114/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

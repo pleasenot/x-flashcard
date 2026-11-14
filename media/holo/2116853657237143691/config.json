@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "AI 短剧焚决：用 Claude Opus 5.5 做短剧的一手实战",
+  "subtitle": "AI视频",
+  "technique": "言川",
+  "tagline": "@yanchuanlab",
+  "edition": "021 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "Claude Code + Opus 5.5 统筹，Seedance 出画面；强调同空间连续动作一段生成，先 480p 定版。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2116853657237143691/subject.png",
+    "background": "media/holo/2116853657237143691/background.webp",
+    "text": "media/holo/2116853657237143691/text.png",
+    "lineart": "media/holo/2116853657237143691/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

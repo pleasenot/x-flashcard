@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "Grok Bot 运营公众号、知乎：5 个 MCP/Skill",
+  "subtitle": "AI工具",
+  "technique": "xiaomovps",
+  "tagline": "@xiaomovps",
+  "edition": "016 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "推荐一批能帮 Grok Bot 做公众号/知乎运营的 MCP 与 Skill。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2117629471809487189/subject.png",
+    "background": "media/holo/2117629471809487189/background.webp",
+    "text": "media/holo/2117629471809487189/text.png",
+    "lineart": "media/holo/2117629471809487189/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

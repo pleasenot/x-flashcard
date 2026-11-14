@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "一个杭州A8的电商大佬和我说",
+  "subtitle": "搞钱玩法",
+  "technique": "啊发FA",
+  "tagline": "@AFARUNM",
+  "edition": "002 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "一个杭州A8的电商大佬和我说 下个风口：红果电商！！ 他说现在短剧流量真的太猛了 其他平台都在卷价格，卷品质 红果已经开启新的电商思路：“剧情即带货”！ 提前布…",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2121242680348807544/subject.png",
+    "background": "media/holo/2121242680348807544/background.webp",
+    "text": "media/holo/2121242680348807544/text.png",
+    "lineart": "media/holo/2121242680348807544/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

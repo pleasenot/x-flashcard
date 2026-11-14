@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "2026 全球化搞钱终极指南：普通人如何从 0 到 1 构建海外美金收入",
+  "subtitle": "搞钱玩法",
+  "technique": "Roland",
+  "tagline": "@ChainEpic",
+  "edition": "044 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "五类路线：AI/数字产品、联盟营销、跨境电商、内容出海、知识付费。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2118847896166744385/subject.png",
+    "background": "media/holo/2118847896166744385/background.webp",
+    "text": "media/holo/2118847896166744385/text.png",
+    "lineart": "media/holo/2118847896166744385/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

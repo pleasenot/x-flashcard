@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "如何用 Grok Bot 从零到1开发上线一个网站（附提示词）",
+  "subtitle": "AI工具",
+  "technique": "Kin",
+  "tagline": "@KinGao476942",
+  "edition": "015 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "X Article：主 Bot + 六个岗位 Bot（调研到终审），文内给全 JD 提示词。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2117853896580456514/subject.png",
+    "background": "media/holo/2117853896580456514/background.webp",
+    "text": "media/holo/2117853896580456514/text.png",
+    "lineart": "media/holo/2117853896580456514/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

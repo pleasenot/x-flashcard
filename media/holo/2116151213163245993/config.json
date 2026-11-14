@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "无需 REA 逆向，让 AI 替你出剪映草稿",
+  "subtitle": "AI视频",
+  "technique": "leaf_sanren",
+  "tagline": "@leaf_sanren",
+  "edition": "025 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "介绍 Easy 剪映 skill；文内也点到 Windows 侧 jy-draftc。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2116151213163245993/subject.png",
+    "background": "media/holo/2116151213163245993/background.webp",
+    "text": "media/holo/2116151213163245993/text.png",
+    "lineart": "media/holo/2116151213163245993/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

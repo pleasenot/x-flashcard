@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "Gemma 4 31B 去审查版 GGUF（11.9GB）上架 Hugging Face",
+  "subtitle": "AI工具",
+  "technique": "明子206",
+  "tagline": "@mingzi206",
+  "edition": "047 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "HF 上 Gemma 4 31B 去审查量化版（约 11.9GB，Apache-2.0）；作者称拒答率下降、可本地跑。模型：mradermacher/gemma-4-31B-it-ARA-heretic-GGUF。互动数据截至 2026-11-09 深夜。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2119676422101028915/subject.png",
+    "background": "media/holo/2119676422101028915/background.webp",
+    "text": "media/holo/2119676422101028915/text.png",
+    "lineart": "media/holo/2119676422101028915/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

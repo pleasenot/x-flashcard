@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "This episode cost $102,725 and took 45 days to make.",
+  "subtitle": "AI视频",
+  "technique": "PJ Ace",
+  "tagline": "@PJaccetturo",
+  "edition": "003 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "This episode cost $102,725 and took 45 days to make. ...but I think we've finall…",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2121249226575511854/subject.png",
+    "background": "media/holo/2121249226575511854/background.webp",
+    "text": "media/holo/2121249226575511854/text.png",
+    "lineart": "media/holo/2121249226575511854/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

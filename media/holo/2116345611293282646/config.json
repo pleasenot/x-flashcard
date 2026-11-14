@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "工程书让 Bot 自动去几十个网站提交外链",
+  "subtitle": "AI工具",
+  "technique": "爱出海",
+  "tagline": "@ai_chuhai",
+  "edition": "034 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "给 Bot 一份工程书，自动判断并提交免费收录平台；作者实测 75 站成功 4 个。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2116345611293282646/subject.png",
+    "background": "media/holo/2116345611293282646/background.webp",
+    "text": "media/holo/2116345611293282646/text.png",
+    "lineart": "media/holo/2116345611293282646/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

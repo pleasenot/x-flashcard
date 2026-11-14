@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "小红书起号保姆级教程｜从0开始找对标，坚持出摊、商业化",
+  "subtitle": "运营起号",
+  "technique": "小晚不在",
+  "tagline": "@bbkirstry",
+  "edition": "011 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "X Article 全文约 7700 字：找对标、坚持出摊、内容节奏和商业化路径。收藏近 8000。互动数据截至 2026-11-09 深夜。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2119430655390122208/subject.png",
+    "background": "media/holo/2119430655390122208/background.webp",
+    "text": "media/holo/2119430655390122208/text.png",
+    "lineart": "media/holo/2119430655390122208/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

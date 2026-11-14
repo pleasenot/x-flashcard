@@ -15,6 +15,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&family=Noto+Serif+SC:wght@600;700&display=swap">
   <link rel="stylesheet" href="css/styles.css">
+  <script type="importmap">{"imports":{"three":"./vendor/three/build/three.module.js","three/addons/":"./vendor/three/examples/jsm/"}}</script>
   <script>
     (function () {
       try {
@@ -61,8 +62,18 @@
 
   <main class="main">
     <section class="stage" aria-label="收藏卡片">
-      <div class="deck" id="deck" tabindex="0"></div>
+      <div class="deck-wrap">
+        <div class="deck" id="deck" tabindex="0"></div>
+        <div class="holo-stage" id="holoStage" tabindex="0" hidden role="img" aria-label="拖动查看镭射光泽，点按翻转，左右滑动换卡">
+          <div class="holo-loading" id="holoLoading">正在生成镭射卡</div>
+        </div>
+      </div>
     </section>
+    <div class="holo-actions" id="holoActions" hidden>
+      <button type="button" id="holoFlip">翻转</button>
+      <button type="button" id="holoAuto" aria-pressed="false">巡光</button>
+      <button type="button" id="holoRead">阅读</button>
+    </div>
 
     <div class="browse">
       <button type="button" class="nav-btn nav-prev" id="prevBtn" aria-label="上一张">
@@ -78,7 +89,7 @@
     </div>
   </main>
 
-  <p class="hint" id="hint">点按卡片翻转查看详情，左右滑动或用方向键切换</p>
+  <p class="hint" id="hint">拖动卡片看镭射光泽，点按翻转，左右滑动或用方向键换卡</p>
 
   <div class="empty" id="empty" hidden>
     <p class="empty-title">没有找到匹配的收藏</p>
@@ -113,6 +124,7 @@
     <p class="noscript">浏览收藏卡需要启用 JavaScript，并用本地服务器打开本页，例如：<code>python3 -m http.server</code>。</p>
   </noscript>
 
+  <script type="module" src="js/holo-studio.js"></script>
   <script src="js/app.js" defer></script>
 </body>
 </html>

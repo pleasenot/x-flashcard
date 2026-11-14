@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "FDE 实战：海量多模态数据怎么洗成可信数据",
+  "subtitle": "搞钱玩法",
+  "technique": "miles_mazy",
+  "tagline": "@miles_mazy",
+  "edition": "035 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "小红书/抖音/视频号等文字+图+音+视频清洗成可追溯数据的八步链路。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2115006510979801566/subject.png",
+    "background": "media/holo/2115006510979801566/background.webp",
+    "text": "media/holo/2115006510979801566/text.png",
+    "lineart": "media/holo/2115006510979801566/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

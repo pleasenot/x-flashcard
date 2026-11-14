@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "月入万刀的人都是先想明白两件事，最后才 Vibe Coding",
+  "subtitle": "搞钱玩法",
+  "technique": "Yihui",
+  "tagline": "@yihui_indie",
+  "edition": "026 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "先想商业模式怎么转、第一批付费用户从哪来，再动手写代码。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2115251581998563837/subject.png",
+    "background": "media/holo/2115251581998563837/background.webp",
+    "text": "media/holo/2115251581998563837/text.png",
+    "lineart": "media/holo/2115251581998563837/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

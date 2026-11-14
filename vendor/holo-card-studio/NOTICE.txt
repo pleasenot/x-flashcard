@@ -1,0 +1,4 @@
+Holo Card Studio (https://github.com/EverettFish/holo-card-studio)
+Copyright 2026 Holo Card Studio contributors. MIT License.
+This site vendors the official web holographic viewer (Three.js shaders)
+and a card.glb exported by the official Blender pipeline.

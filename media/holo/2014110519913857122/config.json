@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "10 months 10 apps，自称年入约 80 万美元完整指南",
+  "subtitle": "搞钱玩法",
+  "technique": "Ernesto",
+  "tagline": "@ErnestoSOFTWARE",
+  "edition": "029 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "B2C 应用从做到卖的长文指南；互动极高。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2014110519913857122/subject.png",
+    "background": "media/holo/2014110519913857122/background.webp",
+    "text": "media/holo/2014110519913857122/text.png",
+    "lineart": "media/holo/2014110519913857122/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

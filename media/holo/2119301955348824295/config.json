@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "新玩法：用 B 站 TOY 做网盘拉新和 CPS",
+  "subtitle": "搞钱玩法",
+  "technique": "冬青",
+  "tagline": "@DongQingAsk",
+  "edition": "045 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "在 B 站 TOY 里放网盘拉新、CPS 推广链接赚佣金。TOY 是真的，但作者还没有跑出成绩。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2119301955348824295/subject.png",
+    "background": "media/holo/2119301955348824295/background.webp",
+    "text": "media/holo/2119301955348824295/text.png",
+    "lineart": "media/holo/2119301955348824295/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

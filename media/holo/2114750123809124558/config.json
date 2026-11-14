@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "信息差的钱：盯 GitHub Trending 写中文教程",
+  "subtitle": "搞钱玩法",
+  "technique": "sdf302030",
+  "tagline": "@sdf302030",
+  "edition": "032 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "盯星标突增但中文教程稀缺的小工具，做中文落地教程赚钱。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2114750123809124558/subject.png",
+    "background": "media/holo/2114750123809124558/background.webp",
+    "text": "media/holo/2114750123809124558/text.png",
+    "lineart": "media/holo/2114750123809124558/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

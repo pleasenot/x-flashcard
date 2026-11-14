@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "抖音 Unforgettable 转场玩法",
+  "subtitle": "AI视频",
+  "technique": "硅基废话",
+  "tagline": "@DDJCXX",
+  "edition": "036 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "举起两张 UNO 牌移开后出车的转场打法；皇上曾想做豆包×奶龙版本。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2114898225044041918/subject.png",
+    "background": "media/holo/2114898225044041918/background.webp",
+    "text": "media/holo/2114898225044041918/text.png",
+    "lineart": "media/holo/2114898225044041918/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}

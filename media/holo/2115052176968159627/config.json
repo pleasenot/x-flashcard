@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "Story Studio 开源：全自动跑视频号带货",
+  "subtitle": "AI视频",
+  "technique": "夏木GROW",
+  "tagline": "@Tanghulu188",
+  "edition": "028 / 050",
+  "collection": "X 帖子收藏卡",
+  "description": "历史/人物故事短视频全流程 skill（选题到剪映草稿），主打视频号挂车。仓库 konlu/story-studio。",
+  "parameters": {
+    "subjectScale": 1.08,
+    "subjectDepth": 0.35,
+    "backgroundDepth": -0.22,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.08,
+    "offset": [
+      0.0,
+      0.02
+    ]
+  },
+  "assets": {
+    "subject": "media/holo/2115052176968159627/subject.png",
+    "background": "media/holo/2115052176968159627/background.webp",
+    "text": "media/holo/2115052176968159627/text.png",
+    "lineart": "media/holo/2115052176968159627/lineart.webp",
+    "model": "vendor/holo-card-studio/card.glb"
+  }
+}
