@@ -1,0 +1,1576 @@
+{
+  "title": "X 帖子收藏卡",
+  "updated": "2026-11-14 00:40:07 +0800",
+  "count": 50,
+  "cards": [
+    {
+      "id": "2120374206932127890",
+      "url": "https://x.com/techyoutbe/status/2120374206932127890",
+      "author": "Tech Fusionist | Kushal Gangil",
+      "handle": "techyoutbe",
+      "date": "2026-11-11",
+      "title": "AI Agent Platform Architecture",
+      "summary": "手绘参考架构图：Agent Gateway、Orchestrator、LLM Router、权限与人工审批、MCP/工具、记忆、追踪评测。",
+      "note": "",
+      "cat": "AI工具",
+      "likes": 760,
+      "saves": 880,
+      "views": 94718,
+      "cover": "media/2120374206932127890/cover.webp",
+      "coverWidth": 1400,
+      "coverHeight": 1048,
+      "media": [],
+      "excerpt": "AI Agent Platform Architecture https://t.co/PQyg7NvXgF",
+      "hasArticle": false,
+      "omittedCode": false,
+      "bodyHtml": "<p>AI Agent Platform Architecture <a href=\"https://t.co/PQyg7NvXgF\" target=\"_blank\" rel=\"noopener noreferrer\">https://t.co/PQyg7NvXgF</a></p>"
+    },
+    {
+      "id": "2121242680348807544",
+      "url": "https://x.com/AFARUNM/status/2121242680348807544",
+      "author": "啊发FA",
+      "handle": "AFARUNM",
+      "date": "2026-11-13",
+      "title": "一个杭州A8的电商大佬和我说",
+      "summary": "一个杭州A8的电商大佬和我说 下个风口：红果电商！！ 他说现在短剧流量真的太猛了 其他平台都在卷价格，卷品质 红果已经开启新的电商思路：“剧情即带货”！ 提前布…",
+      "note": "",
+      "cat": "搞钱玩法",
+      "likes": 5,
+      "saves": 0,
+      "views": 502,
+      "cover": null,
+      "coverWidth": null,
+      "coverHeight": null,
+      "media": [],
+      "excerpt": "一个杭州A8的电商大佬和我说\n\n下个风口：红果电商！！\n\n他说现在短剧流量真的太猛了\n\n其他平台都在卷价格，卷品质\n\n红果已经开启新的电商思路：“剧情即带货”！\n\n提前布局！！做好迎接准备！！",
+      "hasArticle": false,
+      "omittedCode": false,
+      "bodyHtml": "<p>一个杭州A8的电商大佬和我说</p>\n<p>下个风口：红果电商！！</p>\n<p>他说现在短剧流量真的太猛了</p>\n<p>其他平台都在卷价格，卷品质</p>\n<p>红果已经开启新的电商思路：“剧情即带货”！</p>\n<p>提前布局！！做好迎接准备！！</p>"
+    },
+    {
+      "id": "2121249226575511854",
+      "url": "https://x.com/PJaccetturo/status/2121249226575511854",
+      "author": "PJ Ace",
+      "handle": "PJaccetturo",
+      "date": "2026-11-13",
+      "title": "This episode cost $102,725 and took 45 days to make.",
+      "summary": "This episode cost $102,725 and took 45 days to make. ...but I think we've finall…",
+      "note": "",
+      "cat": "AI视频",
+      "likes": 860,
+      "saves": 676,
+      "views": 47969,
+      "cover": "media/2121249226575511854/cover.webp",
+      "coverWidth": 1199,
+      "coverHeight": 506,
+      "media": [],
+      "excerpt": "This episode cost $102,725 and took 45 days to make.\n\n...but I think we've finally solved AI Filmmaking.\n\nWe made MAJOR breakthroughs in audio + cinematography. \n\nAnd Part II (next week) is even more insane.\n\nSteal our brand-new process and Dreamina prompts below👇🏼🧵 https://t.co/39T7urOiuZ\n\n## 2/12\n\nStory:\nThis episode is an homage to my favorite movie of all time, Nausicaä of the Valley of the Wind.",
+      "hasArticle": true,
+      "omittedCode": false
+    },
+    {
+      "id": "2121120443260424268",
+      "url": "https://x.com/EianLu/status/2121120443260424268",
+      "author": "Eian",
+      "handle": "EianLu",
+      "date": "2026-11-13",
+      "title": "分享一下整支视频的制作思路，用Claude Code+Blender 完成，我负责说想法、看图、提意见，Claude Code 负责写全部代码。Blender 建模、打光、做动画、渲染，不会用Blender也没事，反正安装好了就行，我全程就没打开过Blender 的界面。",
+      "summary": "分享一下整支视频的制作思路，用Claude Code+Blender 完成，我负责说想法、看图、提意见，Claude Code 负责写全部代码。Blender…",
+      "note": "",
+      "cat": "AI视频",
+      "likes": 80,
+      "saves": 55,
+      "views": 5620,
+      "cover": null,
+      "coverWidth": null,
+      "coverHeight": null,
+      "media": [],
+      "excerpt": "分享一下整支视频的制作思路，用Claude Code+Blender 完成，我负责说想法、看图、提意见，Claude Code 负责写全部代码。Blender 建模、打光、做动画、渲染，不会用Blender也没事，反正安装好了就行，我全程就没打开过Blender 的界面。\n\n声音也是代码合成的，比如视频里的脚步声、回车声和音乐，都是用 numpy 算出来的。\n\n最后用 ffmpeg 把图片合成视频。\n\n最难的是场景的精细度，比如键盘的每个键帽、咖啡的热气、窗外的楼这些都需要多优化几轮。\n\n一个小技巧：先用方块搭粗模看构图，看了没问题再做精细场景。先渲低清的动作预览，确认了最后才渲高质量全片，这样会很大程度的减少返工，渲染一条片子要花很长时间！",
+      "hasArticle": false,
+      "omittedCode": false,
+      "bodyHtml": "<p>分享一下整支视频的制作思路，用Claude Code+Blender 完成，我负责说想法、看图、提意见，Claude Code 负责写全部代码。Blender 建模、打光、做动画、渲染，不会用Blender也没事，反正安装好了就行，我全程就没打开过Blender 的界面。</p>\n<p>声音也是代码合成的，比如视频里的脚步声、回车声和音乐，都是用 numpy 算出来的。</p>\n<p>最后用 ffmpeg 把图片合成视频。</p>\n<p>最难的是场景的精细度，比如键盘的每个键帽、咖啡的热气、窗外的楼这些都需要多优化几轮。</p>\n<p>一个小技巧：先用方块搭粗模看构图，看了没问题再做精细场景。先渲低清的动作预览，确认了最后才渲高质量全片，这样会很大程度的减少返工，渲染一条片子要花很长时间！</p>"
+    },
+    {
+      "id": "2120089714749263956",
+      "url": "https://x.com/AYi_AInotes/status/2120089714749263956",
+      "author": "AYi",
+      "handle": "AYi_AInotes",
+      "date": "2026-11-10",
+      "title": "闲鱼¥85一套卖了 3000 单！手把手教你用即梦、豆包做动态表情包接单搞钱，全套提示词+脚本开源！",
+      "summary": "大家知道做表情包到底有多赚钱吗？闲鱼上一个普通的微信动态表情定制商品，券后 85 块一套，单店已售 3000+ 单，光这一个链接就跑出了 25 万+ 的流水；另…",
+      "note": "",
+      "cat": "AI视频",
+      "likes": 142,
+      "saves": 134,
+      "views": 14784,
+      "cover": "media/2120089714749263956/cover.webp",
+      "coverWidth": 1400,
+      "coverHeight": 560,
+      "media": [
+        {
+          "src": "media/2120089714749263956/1.webp",
+          "width": 1100,
+          "height": 585
+        },
+        {
+          "src": "media/2120089714749263956/2.webp",
+          "width": 1100,
+          "height": 602
+        },
+        {
+          "src": "media/2120089714749263956/3.webp",
+          "width": 971,
+          "height": 1100
+        },
+        {
+          "src": "media/2120089714749263956/4.webp",
+          "width": 1100,
+          "height": 718
+        },
+        {
+          "src": "media/2120089714749263956/5.webp",
+          "width": 969,
+          "height": 1100
+        },
+        {
+          "src": "media/2120089714749263956/6.webp",
+          "width": 969,
+          "height": 1100
+        }
+      ],
+      "excerpt": "大家知道做表情包到底有多赚钱吗？闲鱼上一个普通的微信动态表情定制商品，券后 85 块一套，单店已售 3000+ 单，光这一个链接就跑出了 25 万+ 的流水；另一边微信表情开放平台零门槛注册，直接投稿上架就能拿亿万级曝光、开赞赏分成。以前做一套动图要画师熬几天，现在手机里随便挑一张照片，用今天上线的 Seedream 5.5，同一个角色连演 16 场戏不换脸。这篇把整套变现流程拆透：定角色、挖需求、写分镜、四宫格出帧、AI 找茬到一键拼 GIF，6 条提示词和 1 个切帧脚本全部开源，小白照着抄就能直接开干！",
+      "hasArticle": true,
+      "omittedCode": false
+    },
+    {
+      "id": "2120072376172126466",
+      "url": "https://x.com/LucasPei181034/status/2120072376172126466",
+      "author": "裴同学",
+      "handle": "LucasPei181034",
+      "date": "2026-11-10",
+      "title": "AI原创虚拟产品+AI赋能小红书运营陪跑5.0",
+      "summary": "大家好，我是裴同学。 最近这段时间，我们公司最明显的变化是：很多以前要人干的活，交给了 AI。 以前做小红书虚拟，我们大部分精力都花在刷榜单选品、找资料整理资料…",
+      "note": "",
+      "cat": "小程序",
+      "likes": 23,
+      "saves": 42,
+      "views": 3358,
+      "cover": "media/2120072376172126466/cover.webp",
+      "coverWidth": 1400,
+      "coverHeight": 559,
+      "media": [
+        {
+          "src": "media/2120072376172126466/1.webp",
+          "width": 1100,
+          "height": 550
+        },
+        {
+          "src": "media/2120072376172126466/2.webp",
+          "width": 1100,
+          "height": 576
+        },
+        {
+          "src": "media/2120072376172126466/3.webp",
+          "width": 1100,
+          "height": 339
+        },
+        {
+          "src": "media/2120072376172126466/4.webp",
+          "width": 1100,
+          "height": 429
+        },
+        {
+          "src": "media/2120072376172126466/5.webp",
+          "width": 1100,
+          "height": 930
+        },
+        {
+          "src": "media/2120072376172126466/6.webp",
+          "width": 1100,
+          "height": 625
+        }
+      ],
+      "excerpt": "大家好，我是裴同学。\n最近这段时间，我们公司最明显的变化是：很多以前要人干的活，交给了 AI。\n以前做小红书虚拟，我们大部分精力都花在刷榜单选品、找资料整理资料、做笔记这些事情上。真正研究流量、分析数据的关键动作反而很少。\n现在不一样了。我们开始让 AI 参与整个小红书虚拟的运营。从做产品、选品，到做笔记、发笔记，能交给 AI 的环节，基本都在尝试用 AI 重新做一遍。\n比如，之前我们已经跑了几个月的 AI 原创 PPT，店铺可以卖模板，私域还可以接定制，整个生产流程也通过 Skill 固定了下来。一个人一天能做 30 多份可编辑的 PPT，效率非常高。\n\n后来我们又陆续做了 AI 知识库、AI 教辅资料，还有 AI 做的工具、小程序和网站，发现这里面的空间远比单做 PPT 大得多。",
+      "hasArticle": true,
+      "omittedCode": false
+    },
+    {
+      "id": "2119262403099820352",
+      "url": "https://x.com/clenusgrok/status/2119262403099820352",
+      "author": "Hong&哈士鹅",
+      "handle": "clenusgrok",
+      "date": "2026-11-08",
+      "title": "让 Muse 自己去白嫖显卡：Colab T4 + Kaggle T4×2",
+      "summary": "作者让 Muse 自助调研并注册免费 GPU：拿到 Colab Tesla T4 与 Kaggle T4×2（每周约 30 小时 GPU，另有约 20 小时 TPU）。零绑卡、零证件。互动数据截至 2026-11-09 深夜。",
+      "note": "Colab/Kaggle 免费档属实可试；额度与排队会变，需皇上本人账号。",
+      "cat": "羊毛福利",
+      "likes": 265,
+      "saves": 347,
+      "views": 57991,
+      "cover": "media/2119262403099820352/cover.webp",
+      "coverWidth": 671,
+      "coverHeight": 1200,
+      "media": [
+        {
+          "src": "media/2119262403099820352/1.webp",
+          "width": 600,
+          "height": 1100
+        }
+      ],
+      "excerpt": "我让muse自己去白嫖显卡。\n\n十五分钟后，它交回来两台：一台 Google Colab 的 Tesla T4（15G 显存，随开随用），一台 Kaggle 的 T4×2，每周 30 小时免费 GPU，还有 20 小时 TPU 垫底。零绑卡、零证件、零花费。\n\n过程比结果更好看。\n\n我只给了它三样东西：它自己的 Gmail、一条授权，和我的一个香港号码收验证码。授权原话是：「邮箱用你的，用户名密码你自己创建，你一条龙创建管理，我接入会打断你的进程。」\n\n然后它自己干了这些事：\n\n先调研，把市面上的「免费 GPU」挨个验明正身——Modal 要绑卡，判死；SageMaker 免费实验室关了新注册，判死；有一家要身份证实名，判死；有一家每天只给 5 分钟，判死。最后活下来的只有 Colab 和 Kaggle。",
+      "hasArticle": true,
+      "omittedCode": false
+    },
+    {
+      "id": "2119216778006196592",
+      "url": "https://x.com/Leviwoyun/status/2119216778006196592",
+      "author": "Levi 卧云",
+      "handle": "Leviwoyun",
+      "date": "2026-11-08",
+      "title": "白嫖 Simular Box：免费云 Linux 桌面，MCP 接 AI",
+      "summary": "介绍 box.simular.ai 免费云 Linux 桌面，可用 MCP 接入 AI；帖称约 4 核 8GB，官网未写规格。桌面本身免费，模型调用走每日额度。互动数据截至 2026-11-09 深夜。",
+      "note": "桌面免费属实可试；规格以官网为准，帖内 4 核 8GB 未在官网确认。",
+      "cat": "羊毛福利",
+      "likes": 228,
+      "saves": 365,
+      "views": 109752,
+      "cover": "media/2119216778006196592/cover.webp",
+      "coverWidth": 1200,
+      "coverHeight": 891,
+      "media": [],
+      "excerpt": "快去薅免费的服务器，4 核 8GB，Muse，GB 都能薅！！！\n\n把帖子复制给你的 Muse 或者 grok bot \n\n给它一个 gmail 之类的邮箱就行！\n\n快去试试吧，我 5 分钟就薅到了！\n\nhttps://t.co/HcwENo0sjI https://t.co/C95Kkzpcjk",
+      "hasArticle": false,
+      "omittedCode": false,
+      "bodyHtml": "<p>快去薅免费的服务器，4 核 8GB，Muse，GB 都能薅！！！</p>\n<p>把帖子复制给你的 Muse 或者 grok bot </p>\n<p>给它一个 gmail 之类的邮箱就行！</p>\n<p>快去试试吧，我 5 分钟就薅到了！</p>\n<p><a href=\"https://t.co/HcwENo0sjI\" target=\"_blank\" rel=\"noopener noreferrer\">https://t.co/HcwENo0sjI</a> <a href=\"https://t.co/C95Kkzpcjk\" target=\"_blank\" rel=\"noopener noreferrer\">https://t.co/C95Kkzpcjk</a></p>"
+    },
+    {
+      "id": "2119786209199489440",
+      "url": "https://x.com/mingzi206/status/2119786209199489440",
+      "author": "明子206",
+      "handle": "mingzi206",
+      "date": "2026-11-09",
+      "title": "魔搭 × AMD 联合激励：国内秒开白嫖 AMD 大显存",
+      "summary": "魔搭社区绑定阿里云，参加 AMD 与 ModelScope 联合激励，起步约 100 小时 AMD 算力，再叠加魔搭自带额度。帖内称控制台可见约 48GB 显存档；互动数据截至 2026-11-09 深夜。",
+      "note": "魔搭官方活动，属实；需皇上本人账号实名，高峰常见资源紧张。",
+      "cat": "羊毛福利",
+      "likes": 21,
+      "saves": 46,
+      "views": 2835,
+      "cover": "media/2119786209199489440/cover.webp",
+      "coverWidth": 1400,
+      "coverHeight": 603,
+      "media": [
+        {
+          "src": "media/2119786209199489440/1.webp",
+          "width": 1100,
+          "height": 564
+        },
+        {
+          "src": "media/2119786209199489440/2.webp",
+          "width": 1100,
+          "height": 629
+        }
+      ],
+      "excerpt": "卧槽 兄弟们，我又发现一种白嫖 AMD 大显存的方法，国内直接秒开不用等\n\n阿里云魔搭社区刚放出来的联合激励：绑定阿里云账号，直接送 AMD 顶级算力，起步 100 小时，加上魔搭自带的 24G 显存 36 小时，合起来保底白送 136 个小时\n\n控制台实测参数直接拉满： \n\n· 真实硬件规格：直接给 16 核 CPU + 55GB 内存 + 48GB 专业级显存，单卡显存整整是 4090 的两倍，32B 满血模型单卡轻松拿下\n· 额度双重叠加：AMD 专区送 100 小时，魔搭自带显存再送 36 小时，随手完成活动任务最高能直接叠到 1000 小时 \n· 极低计费门槛：控制台明确标着 1 积分 / 小时，送的 100 积分就是实打实的 100 小时使用时长",
+      "hasArticle": true,
+      "omittedCode": false
+    },
+    {
+      "id": "2119721827522228677",
+      "url": "https://x.com/mingzi206/status/2119721827522228677",
+      "author": "明子206",
+      "handle": "mingzi206",
+      "date": "2026-11-09",
+      "title": "AMD AI 开发者计划：免费领 100 美元 MI300X 算力额度",
+      "summary": "加入 AMD AI Developer Program 后可申请约 100 美元 Developer Cloud 额度（帖称约等于 25 小时顶级 GPU），需审核，激活后限期使用。互动数据截至 2026-11-09 深夜。",
+      "note": "官方计划属实；申请要填单位用途，审核约 2–3 个工作日，用哪个账号需皇上定。",
+      "cat": "羊毛福利",
+      "likes": 276,
+      "saves": 530,
+      "views": 49863,
+      "cover": "media/2119721827522228677/cover.webp",
+      "coverWidth": 1200,
+      "coverHeight": 777,
+      "media": [
+        {
+          "src": "media/2119721827522228677/1.webp",
+          "width": 1100,
+          "height": 661
+        }
+      ],
+      "excerpt": "兄弟们速冲！AMD 给所有开发者发天价福利了！\n\n单卡 192GB 显存的算力怪兽，现在直接免费白送上机体验：零元申请，官方直接打入 100 美元算力额度，相当于免费白嫖 25 小时顶级 GPU！\n\n 平时在 Colab 蹭 15G 显存跑 30B 模型都要双卡切分半天，这次 AMD AI 开发者计划直接把排面拉满了。\n\n这卡有多残暴，明子把核心参数直接列出来： \n\n· 真实硬件规格：直接分配 AMD 现役顶级算力卡 Instinct MI300X，单卡整整 192GB HBM3 显存 \n· 显存容量暴击英伟达：单卡显存是 H100 80G 的 2.4 倍，相当于 8 张 4090 并联，带宽高达 5.3TB/s \n· 70B 满血大模型单卡硬吞：以往跑 70B 甚至更大模型必须多卡切分，现在 192GB 单卡整颗吞下，零切分延迟，长上下文随便喂",
+      "hasArticle": true,
+      "omittedCode": false
+    },
+    {
+      "id": "2119430655390122208",
+      "url": "https://x.com/bbkirstry/status/2119430655390122208",
+      "author": "小晚不在",
+      "handle": "bbkirstry",
+      "date": "2026-11-08",
+      "title": "小红书起号保姆级教程｜从0开始找对标，坚持出摊、商业化",
+      "summary": "X Article 全文约 7700 字：找对标、坚持出摊、内容节奏和商业化路径。收藏近 8000。互动数据截至 2026-11-09 深夜。",
+      "note": "教程完整可作参考；具体数据与变现结果未独立核实。",
+      "cat": "运营起号",
+      "likes": 4752,
+      "saves": 8018,
+      "views": 488878,
+      "cover": "media/2119430655390122208/cover.webp",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "media": [
+        {
+          "src": "media/2119430655390122208/1.webp",
+          "width": 1100,
+          "height": 619
+        },
+        {
+          "src": "media/2119430655390122208/2.webp",
+          "width": 1100,
+          "height": 619
+        },
+        {
+          "src": "media/2119430655390122208/3.webp",
+          "width": 1100,
+          "height": 619
+        },
+        {
+          "src": "media/2119430655390122208/4.webp",
+          "width": 1100,
+          "height": 619
+        },
+        {
+          "src": "media/2119430655390122208/5.webp",
+          "width": 1100,
+          "height": 619
+        },
+        {
+          "src": "media/2119430655390122208/6.webp",
+          "width": 1100,
+          "height": 619
+        }
+      ],
+      "excerpt": "我相信，哪怕再过三年，依然会有小白睁着无辜的大眼睛问我：\n“小晚，我到底怎么开始做自媒体啊？”\n\n合着网上那么多教程，你是一篇都不看吗！！！\n但这也合理吧。\n因为一个完全没有做过内容的人，可能根本看不懂那些教程到底在教什么。\n什么定位、对标、选题、钩子、完播率……\n你连一条好的内容究竟好在哪里都不知道，又怎么知道自己该学什么？\n\n有些朋友在 X 上已经有几千甚至几万粉丝，内容能力也不错，到了小红书、抖音却依然找不到头绪。\n发工具、发资讯、发教程，积累了很多粉丝，换个平台生态之后也会不知道怎么更好地做下去。",
+      "hasArticle": true,
+      "omittedCode": false
+    },
+    {
+      "id": "2118216500008128786",
+      "url": "https://x.com/JessiCao_JC/status/2118216500008128786",
+      "author": "JessiCao",
+      "handle": "JessiCao_JC",
+      "date": "2026-11-05",
+      "title": "把写 X 长文的流程做成 Skill：语料、配图、封面整套开源",
+      "summary": "开源爆款长文 skill：填语料和配图风格，产出标题、正文、插图、封面和 Hook。",
+      "note": "可给宣诏使作长文流程参考；仓库与许可证待用时再核。",
+      "cat": "AI工具",
+      "likes": 122,
+      "saves": 194,
+      "views": 16795,
+      "cover": "media/2118216500008128786/cover.webp",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "media": [
+        {
+          "src": "media/2118216500008128786/1.webp",
+          "width": 1100,
+          "height": 733
+        },
+        {
+          "src": "media/2118216500008128786/2.webp",
+          "width": 1100,
+          "height": 733
+        },
+        {
+          "src": "media/2118216500008128786/3.webp",
+          "width": 1100,
+          "height": 733
+        },
+        {
+          "src": "media/2118216500008128786/4.webp",
+          "width": 786,
+          "height": 796
+        }
+      ],
+      "excerpt": "我现在做内容，AI 用得已经很多了\n从选题、文字到配图，基本上都在用自己搭好的 Skill。它会结合我之前积累的语料和人设风格，把文章、插图、封面、发布时用的 Hook 一起做出来。生成之后，我通常整体 review 一遍，有些细节需要改，就改一下，不用每次从头重写\n但这个使用感受有一个前提：里面有我自己的语料，也有之前反复调整过的要求。换一个人，只拿到一份规则，不一定就能得到同样的结果。\n所以这次我把通用流程单独整理出来skill，放到了 GitHub。大家可以填自己的语料、自己的配图风格，生成自己的 X 长文\n我也是用这个长文skill生产出自己的爆款长文，24h涨粉3k+\n \n先给地址：X-Article-skill 开源仓库\n目前我把它当成一个 60 分的初版。能跑完整流程，也有没做好的地方。下面把怎么用、要准备什么，以及哪些地方还需要自己看一遍，讲清楚。",
+      "hasArticle": true,
+      "omittedCode": false
+    },
+    {
+      "id": "2118188301123514550",
+      "url": "https://x.com/MinLiBuilds/status/2118188301123514550",
+      "author": "MinLiBuilds",
+      "handle": "MinLiBuilds",
+      "date": "2026-11-05",
+      "title": "逐帧复刻 MV 的《焚诀》Skill 开源",
+      "summary": "作者开源逐帧复刻 MV 的 skill：拆镜头、首尾帧、提示词，可接本地 H3 视频生成。",
+      "note": "流程自述，未独立复现；和皇上已有 Google Flow / 短剧线可对照。",
+      "cat": "AI视频",
+      "likes": 125,
+      "saves": 159,
+      "views": 143413,
+      "cover": "media/2118188301123514550/cover.webp",
+      "coverWidth": 1200,
+      "coverHeight": 675,
+      "media": [],
+      "excerpt": "🚨  不藏了！祖传秘方，逐帧复刻 MV 的《焚诀》Skill，今天直接开源！\n\n拆镜头、首尾帧、提示词、本地H3 视频生成，全塞进一个 Skill。也支持云端视频模型，拿去白嫖！\n\n上次复刻《大话西游》× Tibo  ❤️ Poteto，现在配好模型 API，丢给 Agent 就能干活。\n\n牛逼的是:  这套 Skill 的开发需求，我全靠嘴喷出来的。\n用的是网易叭哥说，一次能连续口喷好久，松手1秒就能输出结构化文字。\n\n🔥 视频复刻有个大坑，最重要的不是视频模型，而是拆镜头、生成首尾帧，然后一定要检查！ 人物和构图对不上，后面再好的模型也白搭。\n\n🤣 坐在工位上小声叭叭，同事完全没有听到我在说话。\n这次叭哥说口喷Skill具体有多爽，放下面 👇",
+      "hasArticle": false,
+      "omittedCode": false,
+      "bodyHtml": "<p>🚨  不藏了！祖传秘方，逐帧复刻 MV 的《焚诀》Skill，今天直接开源！</p>\n<p>拆镜头、首尾帧、提示词、本地H3 视频生成，全塞进一个 Skill。也支持云端视频模型，拿去白嫖！</p>\n<p>上次复刻《大话西游》× Tibo  ❤️ Poteto，现在配好模型 API，丢给 Agent 就能干活。</p>\n<p>牛逼的是:  这套 Skill 的开发需求，我全靠嘴喷出来的。<br>用的是网易叭哥说，一次能连续口喷好久，松手1秒就能输出结构化文字。</p>\n<p>🔥 视频复刻有个大坑，最重要的不是视频模型，而是拆镜头、生成首尾帧，然后一定要检查！ 人物和构图对不上，后面再好的模型也白搭。</p>\n<p>🤣 坐在工位上小声叭叭，同事完全没有听到我在说话。<br>这次叭哥说口喷Skill具体有多爽，放下面 👇</p>"
+    },
+    {
+      "id": "2118033995611205754",
+      "url": "https://x.com/binghe/status/2118033995611205754",
+      "author": "冰河",
+      "handle": "binghe",
+      "date": "2026-11-05",
+      "title": "用 AI 马上赚钱：让 Bot 扒抖音大博主选题和评论痛点",
+      "summary": "教新建 Grok Bot 去抓指定抖音博主近 14 天内容与高赞评论，转成选题。",
+      "note": "选题方法可参考；需在家里机用小号只读抓取，遵守平台规则。",
+      "cat": "搞钱玩法",
+      "likes": 894,
+      "saves": 1279,
+      "views": 73570,
+      "cover": null,
+      "coverWidth": null,
+      "coverHeight": null,
+      "media": [],
+      "excerpt": "我教你怎么用 AI 马上赚到钱，信不？\n\n笨办法，不废话。后半夜了。。。\n\n新建个 Grok Bot ，给它设定一个规则：\n\n我会给你一些 AI 大博主的抖音主页地址，你要做的是直接去网页端，查看这些博主近 14 天内发布的内容主题，视频转文字把口播逐字稿，进行转写，并分析。然后，最重要的是去这些视频的评论区，去找高赞评论，找到有痛点问题的内容，收集起来。\n\n只要我说“选题”，你就把这些博主近 14 天的选题全列出来，让我选择。并且把这些内容下的高赞评论，或潜在需求评论也都整理出来。\n\n-------------------\n\n大概就是上面的意思。你自己改吧一下。\n\n然后，每天多找点类似AI博主，让 Bot 去多积累一些 优质博主库内容。\n\n人工找，就是为了增加效率，只有你看的上的博主，他的内容才是与你相帖近的，客户群体也是一致的。",
+      "hasArticle": true,
+      "omittedCode": false
+    },
+    {
+      "id": "2117853896580456514",
+      "url": "https://x.com/KinGao476942/status/2117853896580456514",
+      "author": "Kin",
+      "handle": "KinGao476942",
+      "date": "2026-11-04",
+      "title": "如何用 Grok Bot 从零到1开发上线一个网站（附提示词）",
+      "summary": "X Article：主 Bot + 六个岗位 Bot（调研到终审），文内给全 JD 提示词。",
+      "note": "建站分工可参考；是否照抄六岗要看皇上现有内阁是否够用。",
+      "cat": "AI工具",
+      "likes": 535,
+      "saves": 939,
+      "views": 121860,
+      "cover": "media/2117853896580456514/cover.webp",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "media": [
+        {
+          "src": "media/2117853896580456514/1.webp",
+          "width": 1100,
+          "height": 618
+        },
+        {
+          "src": "media/2117853896580456514/2.webp",
+          "width": 1100,
+          "height": 618
+        },
+        {
+          "src": "media/2117853896580456514/3.webp",
+          "width": 1100,
+          "height": 618
+        },
+        {
+          "src": "media/2117853896580456514/4.webp",
+          "width": 1100,
+          "height": 618
+        },
+        {
+          "src": "media/2117853896580456514/5.webp",
+          "width": 1100,
+          "height": 618
+        },
+        {
+          "src": "media/2117853896580456514/6.webp",
+          "width": 1100,
+          "height": 618
+        }
+      ],
+      "excerpt": "大家好，我是 Kin，是 SpaceXSI 社区的 Build 大使，一直致力于研究 AI、出海和自媒体，Grok Bot 目前是我的绝对生产力工具，不久前我用了一个多月就在推特涨粉突破一万粉，两周收益突破一千刀。\n我做过很多网站，这次想把一个实操结论直接告诉你：\n用 Grok Bot，完全可以 0 到 1 跑通整个网站的完整开发流程，全程在手机上跟云端的 Bot 对话就能完成，并且对新手非常友好。 \n下面以我近期做的「xxx ai 视频站」（脱敏版）的网站开发为例，除了域名不公开（文中用 example.com 代替），其他每一步流程和 提示词，我都完整公开了，你可以完整照着操作。\n流水线：Grok Bot 开发军团，模拟人类真实软件的开发流程，分为六个岗位（调研 → 产品 → 设计 → 开发 → 测试 → 司令部）+ 主 BOT 一句话开干",
+      "hasArticle": true,
+      "omittedCode": false
+    },
+    {
+      "id": "2117629471809487189",
+      "url": "https://x.com/xiaomovps/status/2117629471809487189",
+      "author": "xiaomovps",
+      "handle": "xiaomovps",
+      "date": "2026-11-03",
+      "title": "Grok Bot 运营公众号、知乎：5 个 MCP/Skill",
+      "summary": "推荐一批能帮 Grok Bot 做公众号/知乎运营的 MCP 与 Skill。",
+      "note": "工具清单可收藏；各仓库许可证与是否仍维护用时再核。",
+      "cat": "AI工具",
+      "likes": 350,
+      "saves": 489,
+      "views": 34869,
+      "cover": "media/2117629471809487189/cover.webp",
+      "coverWidth": 1200,
+      "coverHeight": 607,
+      "media": [
+        {
+          "src": "media/2117629471809487189/1.webp",
+          "width": 1100,
+          "height": 556
+        },
+        {
+          "src": "media/2117629471809487189/2.webp",
+          "width": 1100,
+          "height": 556
+        },
+        {
+          "src": "media/2117629471809487189/3.webp",
+          "width": 1100,
+          "height": 556
+        }
+      ],
+      "excerpt": "Grok Bot 还能帮你运营公众号、知乎，推荐 5 个值得收藏的 MCP 和 Skill\n\n前面我分享过 Grok Bot 接入小红书、抖音、B 站这些国内平台，没想到那篇的反馈还挺不错的\n\n最近又去 GitHub 找了一圈，发现除了直接操作平台，还有不少项目可以帮我们做自媒体\n\n从收集热点、寻找素材，到写公众号、剪辑视频，甚至分析自己的 X 内容，都有对应的 MCP 和 Skill\n\n我整理了 5 个比较有意思的，尤其适合平时经常写内容的朋友\n\n1、TrendRadar｜热点监控 + MCP\n\n这个项目我觉得非常值得收藏，GitHub 上已经有 6 万多个 Star 了\n\n支持聚合多个平台的热榜和 RSS，还能按照关键词筛选热点，通过 AI 分析生成简报\n\n而且支持 MCP，可以让 Grok Bot 直接查询热点、分析话题趋势\n\n如果跟我一样，每天都要收集 AI 新闻、寻找 X 选题，这个就挺实用的",
+      "hasArticle": true,
+      "omittedCode": false
+    },
+    {
+      "id": "2117268289038770660",
+      "url": "https://x.com/xiaomovps/status/2117268289038770660",
+      "author": "xiaomovps",
+      "handle": "xiaomovps",
+      "date": "2026-11-02",
+      "title": "Grok Bot 自动运营小红书：又找 5 个 MCP/Skill",
+      "summary": "分享可用 Grok Bot 辅助小红书运营的 MCP/Skill 清单。",
+      "note": "只读调研可以；代发、刷量一类不要做。",
+      "cat": "AI工具",
+      "likes": 1189,
+      "saves": 1565,
+      "views": 149855,
+      "cover": "media/2117268289038770660/cover.webp",
+      "coverWidth": 1200,
+      "coverHeight": 607,
+      "media": [
+        {
+          "src": "media/2117268289038770660/1.webp",
+          "width": 1100,
+          "height": 556
+        },
+        {
+          "src": "media/2117268289038770660/2.webp",
+          "width": 1100,
+          "height": 556
+        }
+      ],
+      "excerpt": "Grok Bot 能自动运营小红书了，我又找到 5 个不错的 MCP 和 Skill\n\n前面我分享过 Grok Bot 接入美团、瑞幸、滴滴这些国内服务，没想到继续找了一圈，又发现不少有意思的项目\n\n以前一直觉得 Grok Bot 对国内生态的支持不够完善，现在发现很多事情已经有现成的 MCP、Skill 和 CLI 可以使用了\n\n这次我整理了另外 5 个，尤其是前面几个，对经常做内容运营的朋友很有帮助\n\n1、小红书｜社区 MCP\n\n这个我觉得非常值得折腾，GitHub 上已经有 1.6 万多个 Star 了\n\n支持搜索小红书笔记、查看评论、获取内容详情，还能发布图文和视频\n\n如果你和我一样，经常在 X 上收集 AI 内容，完全可以考虑让 Grok Bot 帮你整理素材，再同步到小红书\n\nhttps://t.co/pCjht9tFYa\n\n2、抖音｜官方 MCP 服务广场\n\n没想到抖音自己也已经开放了 MCP 服务广场",
+      "hasArticle": true,
+      "omittedCode": false
+    },
+    {
+      "id": "2116700727443882226",
+      "url": "https://x.com/DDJCXX/status/2116700727443882226",
+      "author": "硅基废话",
+      "handle": "DDJCXX",
+      "date": "2026-11-01",
+      "title": "8 个让 Claude Code 做视频/动画的 Skill",
+      "summary": "盘点 pixelfx、huashu-motion 等可直接试用的视频/动画 Skill。",
+      "note": "可当技能清单；具体星标与许可证以仓库为准。",
+      "cat": "AI视频",
+      "likes": 2059,
+      "saves": 3098,
+      "views": 111081,
+      "cover": "media/2116700727443882226/cover.webp",
+      "coverWidth": 1059,
+      "coverHeight": 1200,
+      "media": [],
+      "excerpt": "这个月 GitHub 上冒出来一批让 Claude Code 做视频、做动画的 Skill，挑了 8 个能直接用的，建议收藏：\n\n1.pixelfx（约 750 star）\n244 个像素特效，火、爆炸、魔法、天气，全是代码写的。附一个 Skill，让 Claude 像挑剔的像素画师一样做新特效：画、渲染、看、再改。\nhttps://t.co/fw5bTNAjzq\n\n2.huashu-motion（约 1900 star）\n说一句「给我的产品做个 30 秒发布片」，它自己写片子、配乐。哪里不满意，在画面上点一下，它只改那一处。\nhttps://t.co/SWh99G8CML\n\n3.mg-styles-15（约 2700 star）\n15 种 MG 动效风格，每种一支 10 秒成片，全是 Opus 5.5 写代码做的，提示词和源码都给了。\nhttps://t.co/WRBIThmpas",
+      "hasArticle": true,
+      "omittedCode": false
+    },
+    {
+      "id": "2116848033526935596",
+      "url": "https://x.com/LufzzLiz/status/2116848033526935596",
+      "author": "岚叔",
+      "handle": "LufzzLiz",
+      "date": "2026-11-01",
+      "title": "无限流数字人口播教程及项目开源",
+      "summary": "先做人物母片镜头库，新口播只花配音和对口型；作者称短口播多风格成本很低。",
+      "note": "开源项目可评估；成本数字为作者自测，未核实。",
+      "cat": "AI视频",
+      "likes": 394,
+      "saves": 654,
+      "views": 43115,
+      "cover": "media/2116848033526935596/cover.webp",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "media": [
+        {
+          "src": "media/2116848033526935596/1.webp",
+          "width": 1100,
+          "height": 475
+        }
+      ],
+      "excerpt": "兄弟们，做数字人口播，真别再傻乎乎地每条都从头抽卡生成视频了，那个烧钱法谁顶得住😂\n如果我跟你说：只需要一次性捏好一套人物底片，以后不管发 100 条还是 1000 条视频，永远不再花一分钱的视频生成费，平时日更，只需要花几块钱跑个配音、改个口型，剩下的全靠本地剪辑和套模板白嫖，甚至一条片子花几块钱就能裂变出 6 种大片质感的花活儿……\n这就是我们最近跑通、且正式开源的：无限流数字人口播：lanshu-infinite-stream-koubo ，开源地址见文章底部\n\n为什么叫“无限流”？\n以前大家做 AI 数字人，换篇稿子就得重新调视频大模型生成一遍人物，又贵又慢，动作还经常抽风。\n我们的思路直接反过来：把“生成视频”变成一次性基建。",
+      "hasArticle": true,
+      "omittedCode": false
+    },
+    {
+      "id": "2116576229319233596",
+      "url": "https://x.com/poteto/status/2116576229319233596",
+      "author": "lauren",
+      "handle": "poteto",
+      "date": "2026-11-01",
+      "title": "Grok Bot 高质量 bot 团队短指南",
+      "summary": "Grok Bot 团队成员谈：bot 贵精不贵多、教完存成技能、接好连接器与密码库、能自动化就交给 bot。",
+      "note": "和皇上内阁思路一致，作管理参考。",
+      "cat": "AI工具",
+      "likes": 10694,
+      "saves": 19576,
+      "views": 1325011,
+      "cover": null,
+      "coverWidth": null,
+      "coverHeight": null,
+      "media": [],
+      "excerpt": "here’s a short grok bot guide on how i create high quality bots and manage my team. ask @bot to read this post and help you improve your team!\n\n• add dr eggbot to your team! he’s my bot designer that i use to create bots\n• you don’t need a lot of bots. a few good bots can be more useful and easier to manage than a large team\n• tell your bots to create skills for itself as you give it instructions on how to do tasks.",
+      "hasArticle": true,
+      "omittedCode": false
+    },
+    {
+      "id": "2116853657237143691",
+      "url": "https://x.com/yanchuanlab/status/2116853657237143691",
+      "author": "言川",
+      "handle": "yanchuanlab",
+      "date": "2026-11-01",
+      "title": "AI 短剧焚决：用 Claude Opus 5.5 做短剧的一手实战",
+      "summary": "Claude Code + Opus 5.5 统筹，Seedance 出画面；强调同空间连续动作一段生成，先 480p 定版。",
+      "note": "经验值钱；成本约 3500 元/集为作者自述。皇上已有 Flow，可只借流程。",
+      "cat": "AI视频",
+      "likes": 415,
+      "saves": 980,
+      "views": 163403,
+      "cover": "media/2116853657237143691/cover.webp",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "media": [
+        {
+          "src": "media/2116853657237143691/1.webp",
+          "width": 854,
+          "height": 480
+        }
+      ],
+      "excerpt": "想用 AI，把脑子里的故事做成自己的第一部短剧？\n这份 AI 短剧焚决，就从一个我真实做过的项目开始，带你拆解从想法到成片的每一步。\n我做《雨停之前》第一集，投入了约 3500 元的生成相关费用，最后做出约 4 分 24 秒的成片。第一次做，没有经验，拍法、人物、声音和剪辑都在边摸索、边修改、边学。这笔钱里，也有我为成长交的学费。\n我把这些一手经验整理成这份教程：怎样让 Claude 组织制作，怎样接入视频模型，怎样用 480p 少花钱试片，怎样生成 20 多秒的场景，以及那些花过钱才弄明白的坑。文末还有一份可直接复制的需求模板。\n最近，@antrofrog_ 的 《Englishman in New York》 爆火，截至写稿时已超过 2800 万次浏览。看到这样的作品，再结合自己的实践，我越来越确定：想做短剧、动漫的人，都可以借助 AI，从第一个短场景开始。\n不会画画、不熟悉剪辑，也可以边做边学。",
+      "hasArticle": true,
+      "omittedCode": false
+    },
+    {
+      "id": "2116504147465757161",
+      "url": "https://x.com/m4lkxx/status/2116504147465757161",
+      "author": "m4lkxx",
+      "handle": "m4lkxx",
+      "date": "2026-10-31",
+      "title": "Motion Engineering: Opus 5.5 哪里会翻车、怎么抓",
+      "summary": "讲 Opus 5.5 做动效常见翻车点和检查方法，偏设计工程。",
+      "note": "可和 0xMovez / Hurricane 动效线一起看。",
+      "cat": "AI视频",
+      "likes": 205,
+      "saves": 373,
+      "views": 149169,
+      "cover": "media/2116504147465757161/cover.webp",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "media": [
+        {
+          "src": "media/2116504147465757161/1.webp",
+          "width": 1100,
+          "height": 528
+        },
+        {
+          "src": "media/2116504147465757161/2.webp",
+          "width": 1100,
+          "height": 528
+        },
+        {
+          "src": "media/2116504147465757161/3.webp",
+          "width": 1100,
+          "height": 528
+        },
+        {
+          "src": "media/2116504147465757161/4.webp",
+          "width": 1100,
+          "height": 487
+        },
+        {
+          "src": "media/2116504147465757161/5.webp",
+          "width": 1100,
+          "height": 578
+        },
+        {
+          "src": "media/2116504147465757161/6.webp",
+          "width": 1100,
+          "height": 666
+        }
+      ],
+      "excerpt": "Opus 5.5 rendered my mascot in brand orange\nThen I measured it\n#E2A276\nThat is not orange. That is peach\n9 of my 10 films missed the brand orange on the first measurement\nIn another film a coffee mug sat inside the character's body\nOn 373 of 420 frames\nI had reviewed that film still by still\nNot one review sheet showed it\nEveryone is posting what Opus 5.5 can make\nAlmost nobody posts what it got wrong on the way",
+      "hasArticle": true,
+      "omittedCode": false
+    },
+    {
+      "id": "2116174609355571402",
+      "url": "https://x.com/elvar_official/status/2116174609355571402",
+      "author": "Elvar",
+      "handle": "elvar_official",
+      "date": "2026-10-30",
+      "title": "把任意机器做成可拆开的 3D 模拟器",
+      "summary": "免费 Claude Code Skill：给机器名和参考图，生成可剖切、可拆零件的 HTML 模拟器并可导出成片。",
+      "note": "演示效果强；是否复用看仓库许可证与依赖。",
+      "cat": "AI视频",
+      "likes": 2614,
+      "saves": 6437,
+      "views": 2169666,
+      "cover": "media/2116174609355571402/cover.webp",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "media": [
+        {
+          "src": "media/2116174609355571402/1.webp",
+          "width": 1100,
+          "height": 618
+        },
+        {
+          "src": "media/2116174609355571402/2.webp",
+          "width": 1100,
+          "height": 618
+        },
+        {
+          "src": "media/2116174609355571402/3.webp",
+          "width": 1100,
+          "height": 618
+        },
+        {
+          "src": "media/2116174609355571402/4.webp",
+          "width": 1100,
+          "height": 618
+        },
+        {
+          "src": "media/2116174609355571402/5.webp",
+          "width": 1100,
+          "height": 618
+        },
+        {
+          "src": "media/2116174609355571402/6.webp",
+          "width": 1100,
+          "height": 618
+        }
+      ],
+      "excerpt": "One free Claude skill builds a working 3D model of any machine, with live gauges and a button for every part. Below: the setup and all 9 prompts.\n \nThere's a free Claude skill that builds any machine as a 3D simulator. You orbit it, cut it open and watch the part doing the work.\nOn the V8 the cylinder you track turns to glass and you watch the charge burn inside it while the pressure chart draws its loop.",
+      "hasArticle": true,
+      "omittedCode": false
+    },
+    {
+      "id": "2116072252177289220",
+      "url": "https://x.com/hurricodes/status/2116072252177289220",
+      "author": "Hurricane",
+      "handle": "hurricodes",
+      "date": "2026-10-30",
+      "title": "DESIGN ENGINEERING: BUILD A MOTION STUDIO AROUND OPUS 5.5",
+      "summary": "长文约 1 万字：围绕 Opus 5.5 搭动效工作室，强调品味与导戏，不只会提示词。",
+      "note": "和 0xMovez 路线同族，可作方法论补充。",
+      "cat": "AI视频",
+      "likes": 206,
+      "saves": 442,
+      "views": 211758,
+      "cover": "media/2116072252177289220/cover.webp",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "media": [
+        {
+          "src": "media/2116072252177289220/1.webp",
+          "width": 1100,
+          "height": 458
+        },
+        {
+          "src": "media/2116072252177289220/2.webp",
+          "width": 1100,
+          "height": 351
+        },
+        {
+          "src": "media/2116072252177289220/3.webp",
+          "width": 1100,
+          "height": 519
+        },
+        {
+          "src": "media/2116072252177289220/4.webp",
+          "width": 1100,
+          "height": 388
+        },
+        {
+          "src": "media/2116072252177289220/5.webp",
+          "width": 1100,
+          "height": 388
+        },
+        {
+          "src": "media/2116072252177289220/6.webp",
+          "width": 1100,
+          "height": 388
+        }
+      ],
+      "excerpt": "Anyone can prompt an animation. Few know how to direct one.\nOpus 5.5 does the typing. You still bring the taste.\nAt the end of this article, you’ll learn how to…\nExplain what design engineering is and why it matters\nAssemble a motion studio from free and low-cost tools\nSet up Claude Opus 5.5 as your planning and building partner\nTurn a rough idea into a timed motion brief",
+      "hasArticle": true,
+      "omittedCode": false
+    },
+    {
+      "id": "2116151213163245993",
+      "url": "https://x.com/leaf_sanren/status/2116151213163245993",
+      "author": "leaf_sanren",
+      "handle": "leaf_sanren",
+      "date": "2026-10-30",
+      "title": "无需 REA 逆向，让 AI 替你出剪映草稿",
+      "summary": "介绍 Easy 剪映 skill；文内也点到 Windows 侧 jy-draftc。",
+      "note": "勘验使结论：本体偏 Mac 且商用受限；Windows 可看 jy-draftc。",
+      "cat": "AI视频",
+      "likes": 208,
+      "saves": 425,
+      "views": 77339,
+      "cover": "media/2116151213163245993/cover.webp",
+      "coverWidth": 1200,
+      "coverHeight": 514,
+      "media": [
+        {
+          "src": "media/2116151213163245993/1.webp",
+          "width": 1100,
+          "height": 618
+        },
+        {
+          "src": "media/2116151213163245993/2.webp",
+          "width": 1100,
+          "height": 604
+        },
+        {
+          "src": "media/2116151213163245993/3.webp",
+          "width": 1100,
+          "height": 619
+        },
+        {
+          "src": "media/2116151213163245993/4.webp",
+          "width": 1100,
+          "height": 619
+        },
+        {
+          "src": "media/2116151213163245993/5.webp",
+          "width": 1100,
+          "height": 619
+        }
+      ],
+      "excerpt": "AI 剪的成片，错一个字，就得整条重新渲染。\n所以我让 AI 不交成片，直接交剪映草稿：字幕、转场、音乐都在轨道上，打开剪映改完就能导出。\n项目开源了（仓库地址见下方），叫 Easy 剪映。\n口播粗剪、卡点、字幕贴语音、批量出片都能做，剪映最新的 v11.7 也能用。\n很多剪映自动化项目，一碰新版剪映（v11）就失灵。\n为什么它们不行、我们怎么做到的，后面用人话讲清楚。\n \n（右上角那个小圆圈是特意加的画中画，演示用的，不是穿帮。）\n小目录\n1｜它能做什么、怎么用：一句话交给 Agent\n2｜为什么很多剪映开源项目，劝你退回 v5.9？\n3｜不破解，v6.0 以后的加密草稿是怎么读写的？",
+      "hasArticle": true,
+      "omittedCode": false
+    },
+    {
+      "id": "2115251581998563837",
+      "url": "https://x.com/yihui_indie/status/2115251581998563837",
+      "author": "Yihui",
+      "handle": "yihui_indie",
+      "date": "2026-10-28",
+      "title": "月入万刀的人都是先想明白两件事，最后才 Vibe Coding",
+      "summary": "先想商业模式怎么转、第一批付费用户从哪来，再动手写代码。",
+      "note": "方向对；收益说法未核实。",
+      "cat": "搞钱玩法",
+      "likes": 1215,
+      "saves": 2351,
+      "views": 122301,
+      "cover": "media/2115251581998563837/cover.webp",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "media": [
+        {
+          "src": "media/2115251581998563837/1.webp",
+          "width": 800,
+          "height": 407
+        },
+        {
+          "src": "media/2115251581998563837/2.webp",
+          "width": 800,
+          "height": 400
+        },
+        {
+          "src": "media/2115251581998563837/3.webp",
+          "width": 800,
+          "height": 400
+        },
+        {
+          "src": "media/2115251581998563837/4.webp",
+          "width": 800,
+          "height": 400
+        },
+        {
+          "src": "media/2115251581998563837/5.webp",
+          "width": 800,
+          "height": 400
+        },
+        {
+          "src": "media/2115251581998563837/6.webp",
+          "width": 800,
+          "height": 407
+        }
+      ],
+      "excerpt": "我的新产品 Skillry 上线 1 个月，拿到了 400+ 个活跃付费订阅，近 30 天收入做到了 $12,037（MRR $3,918），当个产品算是正式跨过了“月入万刀”这条线。\n \n现在 Vibe Coding 真的太爽了。以前要写一个月的 SaaS，现在打开 Codex 或 Claude Code，接上 Stripe 或者 Waffo，一个周末就能上线收款。\n但残酷的真相是：写代码的速度变快了 10 倍，做出“0 付费0用户”产品的速度也快了 10 倍。\n绝大多数独立开发者亏钱，不是因为代码写得不好，而是顺序做反了——大家总是先把产品写出来，上线后发现没人买，才开始头疼怎么营销，最后才发现这个商业模式根本赚不到钱，我这两年做独立开发踩了很多这样的坑。",
+      "hasArticle": true,
+      "omittedCode": false
+    },
+    {
+      "id": "2114813307790266739",
+      "url": "https://x.com/Av1dlive/status/2114813307790266739",
+      "author": "Avid",
+      "handle": "Av1dlive",
+      "date": "2026-10-27",
+      "title": "Grok Bot hook forensics：14 天约 350 万浏览",
+      "summary": "用 bot 研究爆款开场钩子、沉淀公式再写帖；作者自称 14 天约 350 万浏览。",
+      "note": "已催生钩子刑侦官方向；浏览量是作者自述。",
+      "cat": "AI工具",
+      "likes": 942,
+      "saves": 2072,
+      "views": 118338,
+      "cover": "media/2114813307790266739/cover.webp",
+      "coverWidth": 523,
+      "coverHeight": 637,
+      "media": [],
+      "excerpt": "grok bot got me 3.5M views in 14 days.\n\ni didn't hire a ghostwriter. i set up a grok bot and gave it a title: hook forensics\n\nit studies the creators who go viral, breaks down why every hook works, and keeps a formula file i write from.\n\nhere's the full setup 👇 https://t.co/vxvCIhK08z",
+      "hasArticle": false,
+      "omittedCode": false,
+      "bodyHtml": "<p>grok bot got me 3.5M views in 14 days.</p>\n<p>i didn&#x27;t hire a ghostwriter. i set up a grok bot and gave it a title: hook forensics</p>\n<p>it studies the creators who go viral, breaks down why every hook works, and keeps a formula file i write from.</p>\n<p>here&#x27;s the full setup 👇 <a href=\"https://t.co/vxvCIhK08z\" target=\"_blank\" rel=\"noopener noreferrer\">https://t.co/vxvCIhK08z</a></p>"
+    },
+    {
+      "id": "2115052176968159627",
+      "url": "https://x.com/Tanghulu188/status/2115052176968159627",
+      "author": "夏木GROW",
+      "handle": "Tanghulu188",
+      "date": "2026-10-27",
+      "title": "Story Studio 开源：全自动跑视频号带货",
+      "summary": "历史/人物故事短视频全流程 skill（选题到剪映草稿），主打视频号挂车。仓库 konlu/story-studio。",
+      "note": "故事工坊已在用这条线；「一天卖 4000 多」为作者自述。",
+      "cat": "AI视频",
+      "likes": 2907,
+      "saves": 4765,
+      "views": 546500,
+      "cover": "media/2115052176968159627/cover.webp",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "media": [
+        {
+          "src": "media/2115052176968159627/1.webp",
+          "width": 1100,
+          "height": 619
+        },
+        {
+          "src": "media/2115052176968159627/2.webp",
+          "width": 1100,
+          "height": 619
+        },
+        {
+          "src": "media/2115052176968159627/3.webp",
+          "width": 1100,
+          "height": 619
+        },
+        {
+          "src": "media/2115052176968159627/4.webp",
+          "width": 1100,
+          "height": 619
+        },
+        {
+          "src": "media/2115052176968159627/5.webp",
+          "width": 1100,
+          "height": 538
+        },
+        {
+          "src": "media/2115052176968159627/6.webp",
+          "width": 1100,
+          "height": 585
+        }
+      ],
+      "excerpt": "省流速览：\n我把做一条爆款历史/人物故事短视频的全部流水线，打包成了一个给 AI Agent 使用的开源 Skill —— Story Studio（故事工坊）。\n你只要在终端或聊天窗口给 Agent 发一句话：\n选题策划 → 3 秒黄金钩子 → 爆款正文 → 豆包大模型配音 → 本地毫秒级字音对齐 → 3 套画风分镜生图 → 自动导出带推拉运镜的剪映专业版草稿，全链路自动化搞定。\n>\n源码全部开源：https://github.com/konlu/story-studio\n \n一：拿结果说话 — 播放量、涨粉与带货实战成绩\n在聊工具和技术之前，先亮数据。做自媒体不讲虚的，数据是检验内容和生产力最客观的指标。\n这套内容生产流水线，并不是纸上谈兵的理论推演，而是我自己一期期跑通、持续放大拿到正反馈的实战结果。",
+      "hasArticle": true,
+      "omittedCode": false
+    },
+    {
+      "id": "2014110519913857122",
+      "url": "https://x.com/ErnestoSOFTWARE/status/2014110519913857122",
+      "author": "Ernesto",
+      "handle": "ErnestoSOFTWARE",
+      "date": "2026-01-22",
+      "title": "10 months 10 apps，自称年入约 80 万美元完整指南",
+      "summary": "B2C 应用从做到卖的长文指南；互动极高。",
+      "note": "收入数字未核实；可作产品思路参考。",
+      "cat": "搞钱玩法",
+      "likes": 12313,
+      "saves": 45074,
+      "views": 7426217,
+      "cover": "media/2014110519913857122/cover.webp",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "media": [
+        {
+          "src": "media/2014110519913857122/1.webp",
+          "width": 1100,
+          "height": 1100
+        },
+        {
+          "src": "media/2014110519913857122/2.webp",
+          "width": 1100,
+          "height": 688
+        },
+        {
+          "src": "media/2014110519913857122/3.webp",
+          "width": 1100,
+          "height": 574
+        },
+        {
+          "src": "media/2014110519913857122/4.webp",
+          "width": 1055,
+          "height": 685
+        },
+        {
+          "src": "media/2014110519913857122/5.webp",
+          "width": 1100,
+          "height": 1100
+        },
+        {
+          "src": "media/2014110519913857122/6.webp",
+          "width": 1100,
+          "height": 733
+        }
+      ],
+      "excerpt": "My first app made $20,000 in the first 30 days of launching \nwhat i'm about to break down here will change your life.\n\nI know, because it changed mine. \n\nI went from broke 19yo \nto retiring my mom and fiance at 21 \n\nin the beautiful city of Miami.",
+      "hasArticle": true,
+      "omittedCode": false
+    },
+    {
+      "id": "2077684494119661725",
+      "url": "https://x.com/wadezone/status/2077684494119661725",
+      "author": "wadezone",
+      "handle": "wadezone",
+      "date": "2026-07-16",
+      "title": "爆款长文创作流程全公开",
+      "summary": "公开一套爆款长文写作流程，宣诏使侧曾用来对照。",
+      "note": "流程可参考；效果因人而异。",
+      "cat": "AI工具",
+      "likes": 295,
+      "saves": 671,
+      "views": 66523,
+      "cover": "media/2077684494119661725/cover.webp",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "media": [
+        {
+          "src": "media/2077684494119661725/1.webp",
+          "width": 1100,
+          "height": 618
+        },
+        {
+          "src": "media/2077684494119661725/2.webp",
+          "width": 1100,
+          "height": 618
+        },
+        {
+          "src": "media/2077684494119661725/3.webp",
+          "width": 1100,
+          "height": 618
+        },
+        {
+          "src": "media/2077684494119661725/4.webp",
+          "width": 1100,
+          "height": 618
+        },
+        {
+          "src": "media/2077684494119661725/5.webp",
+          "width": 1100,
+          "height": 618
+        },
+        {
+          "src": "media/2077684494119661725/6.webp",
+          "width": 1100,
+          "height": 618
+        }
+      ],
+      "excerpt": "我是怎么在只有 700 粉丝的时候，写出来 200 万浏览量的爆款长文的？\n我的第一篇爆文，116 万浏览。\n写它的时候，我的账号只有 300 个粉丝。\n你可能会说，这是运气。我也认，里面确实有运气的成分。\n四天之后我发了第二篇，《我活了 30 多年才发现，人生就是一场庞氏骗局》。那时候账号 700 粉，这一篇跑了 200 万。\n再后来，我写的长文里，跑到 30 万、50 万的还有很多篇。\n如果说一篇两篇是运气，是巧合，那这么多篇数据摆在这里，就没法再用运气去解释了。它只能说明一件事：我手里有一套能稳定生产爆款长文的东西。\n这套东西是怎么回事，配方是什么，今天我全部摊开来讲。\n先从那篇 200 万的文章爆掉之后，评论区里发生的事说起。没有一个人发现文章发出去的头两天，我一有空就去刷评论区。\n几百条评论，吵成一团。有人说被戳中了。有人不服，跟人对线，说复利没有错，是你们不懂复利。",
+      "hasArticle": true,
+      "omittedCode": false
+    },
+    {
+      "id": "2114957568326185344",
+      "url": "https://x.com/xiaomovps/status/2114957568326185344",
+      "author": "xiaomovps",
+      "handle": "xiaomovps",
+      "date": "2026-10-27",
+      "title": "玩 Grok Bot 必须知道的 5 个网站",
+      "summary": "整理 Grok Bot 相关必看网站与资源入口。",
+      "note": "入口清单；具体站点可用性会变。",
+      "cat": "AI工具",
+      "likes": 668,
+      "saves": 1170,
+      "views": 107841,
+      "cover": "media/2114957568326185344/cover.webp",
+      "coverWidth": 1200,
+      "coverHeight": 661,
+      "media": [],
+      "excerpt": "玩 Grok BOT 必须知道的 5 个网站🔥\n\n最近都在深度分享 Grok BOT 相关的内容，然后花时间整理了一下 Grok BOT 相关的资源，发现除了官方的模板市场，还有不少社区网站专门收集别人分享的 Bot、提示词和自动化方案\n\n分享 5 个值得收藏的网站\n\n1、Grok Bot Marketplace：官方模板市场\n\n🔗 https://t.co/glYLtcoQEi\n\n这是最应该先看的网站，官方已经把现成的 Bot 按 Engineering、Sales、Marketing、Design、Personal、Operations 等类别整理好了\n\n比如 SEO 内容生成、代码开发、QA 测试、销售线索研究等，都可以直接搜索对应的 Bot，找到合适的模板后添加使用\n\n2、Grok Bot Index：搜索大量现成模板\n\n🔗 https://t.co/OS9WnbfrAp",
+      "hasArticle": true,
+      "omittedCode": false
+    },
+    {
+      "id": "2114750123809124558",
+      "url": "https://x.com/sdf302030/status/2114750123809124558",
+      "author": "sdf302030",
+      "handle": "sdf302030",
+      "date": "2026-10-27",
+      "title": "信息差的钱：盯 GitHub Trending 写中文教程",
+      "summary": "盯星标突增但中文教程稀缺的小工具，做中文落地教程赚钱。",
+      "note": "和采风使职责对口；收益说法未核实。",
+      "cat": "搞钱玩法",
+      "likes": 1482,
+      "saves": 1574,
+      "views": 183982,
+      "cover": null,
+      "coverWidth": null,
+      "coverHeight": null,
+      "media": [],
+      "excerpt": "信息差的钱是真的好赚\n\n我一高中同学天天刷 GitHub Trending，专盯「星标突然涨、但中文教程几乎没有」的小工具。\n\n官方 README 往往只有英文，他就用 AI 粗翻，自己跑一遍安装，把报错截图和解决步骤写成「小白一键部署」，挂知识星球或小报童，定价 39–99。\n\n工具免费，他卖的是少踩坑。\n\n一个仓库能卖几周，冷了就换下一个，等于用开源做选题库。\n\n两个月就赚了十五万",
+      "hasArticle": false,
+      "omittedCode": false,
+      "bodyHtml": "<p>信息差的钱是真的好赚</p>\n<p>我一高中同学天天刷 GitHub Trending，专盯「星标突然涨、但中文教程几乎没有」的小工具。</p>\n<p>官方 README 往往只有英文，他就用 AI 粗翻，自己跑一遍安装，把报错截图和解决步骤写成「小白一键部署」，挂知识星球或小报童，定价 39–99。</p>\n<p>工具免费，他卖的是少踩坑。</p>\n<p>一个仓库能卖几周，冷了就换下一个，等于用开源做选题库。</p>\n<p>两个月就赚了十五万</p>"
+    },
+    {
+      "id": "2116709547037667675",
+      "url": "https://x.com/forever7943/status/2116709547037667675",
+      "author": "forever7943",
+      "handle": "forever7943",
+      "date": "2026-11-01",
+      "title": "自研 ComfyUI：3D/生图/音乐/视频一体界面",
+      "summary": "作者自述基于 ComfyUI 的自研 UI，不需要复杂连线，支持 3D、生图、音乐、视频、ASR。",
+      "note": "勘验使看过；公司机显存不够跑本体，可只借流程思路。",
+      "cat": "AI视频",
+      "likes": 195,
+      "saves": 404,
+      "views": 13382,
+      "cover": "media/2116709547037667675/cover.webp",
+      "coverWidth": 1199,
+      "coverHeight": 510,
+      "media": [],
+      "excerpt": "我用的这个是我自己写的一套基于comfyui的ui，不需要工作流，不需要复杂的连线。支持3d，生图，音乐，视频，asr，tts。我已经开源了，有需要的指挥agent安装就行了，windows没测过，只在ubuntu+4090显卡测试过，安装成功后，有api文档和短剧生成，视频guide专门给agent用的。https://t.co/kTBvRJXUpu https://t.co/GSjnKzcBrN https://t.co/OTrO9GTlgU",
+      "hasArticle": false,
+      "omittedCode": false,
+      "bodyHtml": "<p>我用的这个是我自己写的一套基于comfyui的ui，不需要工作流，不需要复杂的连线。支持3d，生图，音乐，视频，asr，tts。我已经开源了，有需要的指挥agent安装就行了，windows没测过，只在ubuntu+4090显卡测试过，安装成功后，有api文档和短剧生成，视频guide专门给agent用的。<a href=\"https://t.co/kTBvRJXUpu\" target=\"_blank\" rel=\"noopener noreferrer\">https://t.co/kTBvRJXUpu</a> <a href=\"https://t.co/GSjnKzcBrN\" target=\"_blank\" rel=\"noopener noreferrer\">https://t.co/GSjnKzcBrN</a> <a href=\"https://t.co/OTrO9GTlgU\" target=\"_blank\" rel=\"noopener noreferrer\">https://t.co/OTrO9GTlgU</a></p>"
+    },
+    {
+      "id": "2116345611293282646",
+      "url": "https://x.com/ai_chuhai/status/2116345611293282646",
+      "author": "爱出海",
+      "handle": "ai_chuhai",
+      "date": "2026-10-31",
+      "title": "工程书让 Bot 自动去几十个网站提交外链",
+      "summary": "给 Bot 一份工程书，自动判断并提交免费收录平台；作者实测 75 站成功 4 个。",
+      "note": "零成本可试只读模式；成功率受登录/验证码限制。",
+      "cat": "AI工具",
+      "likes": 168,
+      "saves": 339,
+      "views": 14716,
+      "cover": "media/2116345611293282646/cover.webp",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "media": [
+        {
+          "src": "media/2116345611293282646/1.webp",
+          "width": 1100,
+          "height": 830
+        }
+      ],
+      "excerpt": "新站上线最烦的一件事，不是写代码，是到处去提交收录，一个平台一个表单，名字，链接，简介，分类，填到第十个人就废了，这活其实最适合丢给 Bot。\n我把这套流程写成一本工程书，丢给你的 Grok Bot，它自己读你的网站，自己写简介，自己挨个判断哪个能交，能交的直接交，不能交的记下原因，你只看最后一张表。\n这玩意儿为什么管用\n其实跟发传单一个道理，传单本身不值钱，值钱的是有人愿意一条街一条街去发，大部分人发了三家店就回家了。\n外链也一样：\n1，免费收录站很多，单个看都不起眼，加起来就是一张网\n2，难的不是哪个站好，是坚持把每个都过一遍\n3，Bot 不嫌烦，不会填到一半去刷手机，也不会同一个站交两遍\n还有一点很关键，它分得清哪些是陷阱，要登录的，要验证码的，要付费插队的，要你挂反链的，它一律跳过，不替你注册账号，不替你掏钱，不去破验证码。",
+      "hasArticle": true,
+      "omittedCode": false
+    },
+    {
+      "id": "2115006510979801566",
+      "url": "https://x.com/miles_mazy/status/2115006510979801566",
+      "author": "miles_mazy",
+      "handle": "miles_mazy",
+      "date": "2026-10-27",
+      "title": "FDE 实战：海量多模态数据怎么洗成可信数据",
+      "summary": "小红书/抖音/视频号等文字+图+音+视频清洗成可追溯数据的八步链路。",
+      "note": "方法论可参考；落地成本看数据规模。",
+      "cat": "搞钱玩法",
+      "likes": 1810,
+      "saves": 3881,
+      "views": 287934,
+      "cover": "media/2115006510979801566/cover.webp",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "media": [
+        {
+          "src": "media/2115006510979801566/1.webp",
+          "width": 1100,
+          "height": 440
+        },
+        {
+          "src": "media/2115006510979801566/2.webp",
+          "width": 1100,
+          "height": 440
+        },
+        {
+          "src": "media/2115006510979801566/3.webp",
+          "width": 1100,
+          "height": 440
+        },
+        {
+          "src": "media/2115006510979801566/4.webp",
+          "width": 1100,
+          "height": 440
+        },
+        {
+          "src": "media/2115006510979801566/5.webp",
+          "width": 1100,
+          "height": 440
+        },
+        {
+          "src": "media/2115006510979801566/6.webp",
+          "width": 1100,
+          "height": 440
+        }
+      ],
+      "excerpt": "前段时间，我们去一家美妆企业做 FDE 落地。具体业务包括舆情分析、竞品调研、营销活动复盘，以及从评论区里提取用户对功效、肤感、成分、价格和使用场景的真实反馈。\n项目启动以后，一个很现实的问题摆在面前：小红书、抖音、视频号、微博等平台的数据已经采集回来，但文字、图片、音频和视频混在一起；同一款产品有全名、简称、系列名和用户自己的叫法；原帖、评论和回复之间还要保持完整关联。只要其中一个环节处理错了，后面的用户洞察和报告结论都会跟着跑偏。\n现在 AI 的搜索功能已经非常完善，所以这篇文章会从单个项目讲起，再把实际做法整理成一套通用方案。\n以后需要分析小红书、抖音、视频号、微博等平台的数据，不管是做消费品洞察、汽车口碑、餐饮选址、旅游评价，还是品牌舆情，都可以参考这套链路完成数据清洗、关系整理、质量核验和入库。",
+      "hasArticle": true,
+      "omittedCode": false
+    },
+    {
+      "id": "2114898225044041918",
+      "url": "https://x.com/DDJCXX/status/2114898225044041918",
+      "author": "硅基废话",
+      "handle": "DDJCXX",
+      "date": "2026-10-27",
+      "title": "抖音 Unforgettable 转场玩法",
+      "summary": "举起两张 UNO 牌移开后出车的转场打法；皇上曾想做豆包×奶龙版本。",
+      "note": "玩法简单可试；具体成片效果看执行。",
+      "cat": "AI视频",
+      "likes": 285,
+      "saves": 226,
+      "views": 42025,
+      "cover": "media/2114898225044041918/cover.webp",
+      "coverWidth": 755,
+      "coverHeight": 1200,
+      "media": [
+        {
+          "src": "media/2114898225044041918/1.webp",
+          "width": 828,
+          "height": 1100
+        }
+      ],
+      "excerpt": "抖音这两天最火的「Unforgettable 转场」，外网早就玩烂了！\n\n我翻了一遍，打法很简单：举起两张 UNO 牌，牌一移开，身后多出一辆车。\n\n赚钱也不复杂：抖音一条就 3.5 万赞，评论区几百人在问「谁帮我做一个」，有人连自己车的照片都发好了，会做的人直接接单，每一个都是送上门的单子。\n\n这套我 10 月就用 Seedance 跑通了，原视频、深度视频、提示词全放评论区👇",
+      "hasArticle": false,
+      "omittedCode": false,
+      "bodyHtml": "<p>抖音这两天最火的「Unforgettable 转场」，外网早就玩烂了！</p>\n<p>我翻了一遍，打法很简单：举起两张 UNO 牌，牌一移开，身后多出一辆车。</p>\n<p>赚钱也不复杂：抖音一条就 3.5 万赞，评论区几百人在问「谁帮我做一个」，有人连自己车的照片都发好了，会做的人直接接单，每一个都是送上门的单子。</p>\n<p>这套我 10 月就用 Seedance 跑通了，原视频、深度视频、提示词全放评论区👇</p>"
+    },
+    {
+      "id": "2119818873470107795",
+      "url": "https://x.com/KOF97AI/status/2119818873470107795",
+      "author": "Nathan AI Lab",
+      "handle": "KOF97AI",
+      "date": "2026-11-09",
+      "title": "Antigravity 调度 Colab G4 跑 MiniMax-H3 短剧工作流",
+      "summary": "用 Antigravity 调度 Colab G4 GPU 跑 MiniMax-H3：自动拉起、挂载云盘、跑完自动关机防幽灵扣费；帖内给了授权与日常渲染命令。互动数据截至 2026-11-09 深夜。",
+      "note": "命令可参考；Colab 计费与配额以谷歌账号为准，需皇上本人操作。",
+      "cat": "AI视频",
+      "likes": 2,
+      "saves": 1,
+      "views": 124,
+      "cover": "media/2119818873470107795/cover.webp",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "media": [
+        {
+          "src": "media/2119818873470107795/1.webp",
+          "width": 1100,
+          "height": 440
+        },
+        {
+          "src": "media/2119818873470107795/2.webp",
+          "width": 1100,
+          "height": 609
+        },
+        {
+          "src": "media/2119818873470107795/3.webp",
+          "width": 1100,
+          "height": 837
+        }
+      ],
+      "excerpt": "用 Antigravity 调度 Colab G4 GPU 跑 MiniMax-H3 短剧工作流，全程自动化拉起、挂载云盘与自动关机防幽灵扣费。\n\n首次完成环境路径与云盘权限授权：\nexport PATH=\"$HOME/.local/bin:$PATH\"\ncolab dfs consent\n\n日常渲染仅需三条命令即可在后台自动开机、极速推理并强杀对账：\ncolab new -s h3work --gpu G4\ncolab dfs mount -s h3work",
+      "hasArticle": true,
+      "omittedCode": false
+    },
+    {
+      "id": "2079118667074376114",
+      "url": "https://x.com/VincentWei93/status/2079118667074376114",
+      "author": "Vincent文森特",
+      "handle": "VincentWei93",
+      "date": "2026-07-20",
+      "title": "video-shotcraft：用 Claude Code 做产品发布宣传片质感动效",
+      "summary": "开源 Apache-2.0 skill（GitHub 约 1.8 万星）。给产品网址/截图和文案，agent 用 Remotion 抓真实页面、从约 124 张镜头配方卡排分镜、踩点剪辑、配音效，可导出 MP4 和剪映草稿。每帧是代码画的，不是生成视频。",
+      "note": "和 0xMovez、成片使已在用的 HyperFrames/Remotion 路线接近，可当镜头配方库参考；做产品宣传片值得试。",
+      "cat": "AI视频",
+      "likes": 1558,
+      "saves": 2569,
+      "views": 318010,
+      "cover": null,
+      "coverWidth": null,
+      "coverHeight": null,
+      "media": [],
+      "excerpt": "",
+      "hasArticle": false,
+      "omittedCode": false
+    },
+    {
+      "id": "2104216919033192746",
+      "url": "https://x.com/0xMovez/status/2104216919033192746",
+      "author": "Movez",
+      "handle": "0xMovez",
+      "date": "2026-09-27",
+      "title": "How to build motion design studio with Opus 5.5（完整课程）",
+      "summary": "AI 写网页动画程序，无头浏览器逐帧截图，ffmpeg 拼成视频。12 步：给参考、写分镜状态清单、弹簧动效、代码合成配乐卡节拍、让 AI 看自己渲染的帧打分修改。",
+      "note": "能做，成片使已在用 HyperFrames。可先做一条 15 秒竖屏样片。",
+      "cat": "AI视频",
+      "likes": 10151,
+      "saves": 29728,
+      "views": 4202741,
+      "cover": null,
+      "coverWidth": null,
+      "coverHeight": null,
+      "media": [],
+      "excerpt": "",
+      "hasArticle": false,
+      "omittedCode": false
+    },
+    {
+      "id": "2115164938884862375",
+      "url": "https://x.com/Y0urDumble/status/2115164938884862375",
+      "author": "Dumble",
+      "handle": "Y0urDumble",
+      "date": "2026-10-27",
+      "title": "How to build a 2.5D motion studio with Opus 5.5（完整课程）",
+      "summary": "扁平 2D 角色加 Blender 打光 3D 场景的竖屏历史科普短片流程：选题事实、脚本分镜、Whisper 逐词字幕、Remotion 合成、声音检查、局部重渲染。",
+      "note": "先做一条样片再评估成本，不照抄角色和脚本。",
+      "cat": "AI视频",
+      "likes": 730,
+      "saves": 2306,
+      "views": 594996,
+      "cover": null,
+      "coverWidth": null,
+      "coverHeight": null,
+      "media": [],
+      "excerpt": "",
+      "hasArticle": false,
+      "omittedCode": false
+    },
+    {
+      "id": "2119326884505043274",
+      "url": "https://x.com/TuyetloanP81840/status/2119326884505043274",
+      "author": "Miller",
+      "handle": "TuyetloanP81840",
+      "date": "2026-11-08",
+      "title": "用 Claude + H3 一个人拍 AI 短剧：实战教程，附提示词和技能包",
+      "summary": "Claude 写剧本分镜，H3 出画面的 AI 短剧流程。拆解时发现正文是未完成草稿，带占位内容，技能包没有许可证。",
+      "note": "皇上已有 Google Flow 和多个账号，不再需要 H3。",
+      "cat": "AI视频",
+      "likes": 7419,
+      "saves": 12382,
+      "views": 1280338,
+      "cover": null,
+      "coverWidth": null,
+      "coverHeight": null,
+      "media": [],
+      "excerpt": "",
+      "hasArticle": false,
+      "omittedCode": false
+    },
+    {
+      "id": "2119082994925211686",
+      "url": "https://x.com/sarpstar/status/2119082994925211686",
+      "author": "sarpstar",
+      "handle": "sarpstar",
+      "date": "2026-11-07",
+      "title": "cinecode skill：做 YouTube 视频",
+      "summary": "土耳其语帖子，介绍作者免费开源的 cinecode skill，配合 Claude 订阅做 YouTube 视频，附约 8 分钟演示视频。",
+      "note": "代码仓库、许可证和实际成本还没核实。",
+      "cat": "AI视频",
+      "likes": 4224,
+      "saves": 10955,
+      "views": 516637,
+      "cover": null,
+      "coverWidth": null,
+      "coverHeight": null,
+      "media": [],
+      "excerpt": "",
+      "hasArticle": false,
+      "omittedCode": false
+    },
+    {
+      "id": "2118589683819262346",
+      "url": "https://x.com/gbroai/status/2118589683819262346",
+      "author": "狗哥笔记",
+      "handle": "gbroai",
+      "date": "2026-11-06",
+      "title": "巧用 Codex image2.6，0 成本 AI 视频生成：从隐喻到成片的全流程",
+      "summary": "接口只拿到标题，没拿到正文。作者自称开源 skill gbro-collage-broll 的作者。",
+      "note": "“0 成本”的说法和具体流程还没核实。",
+      "cat": "AI视频",
+      "likes": 1014,
+      "saves": 1956,
+      "views": 150514,
+      "cover": null,
+      "coverWidth": null,
+      "coverHeight": null,
+      "media": [],
+      "excerpt": "",
+      "hasArticle": false,
+      "omittedCode": false
+    },
+    {
+      "id": "2118847896166744385",
+      "url": "https://x.com/ChainEpic/status/2118847896166744385",
+      "author": "Roland",
+      "handle": "ChainEpic",
+      "date": "2026-11-06",
+      "title": "2026 全球化搞钱终极指南：普通人如何从 0 到 1 构建海外美金收入",
+      "summary": "五类路线：AI/数字产品、联盟营销、跨境电商、内容出海、知识付费。",
+      "note": "作者的收益说法没有独立核实。皇上否掉了 POS 认证资料服务方向。",
+      "cat": "搞钱玩法",
+      "likes": 1792,
+      "saves": 3611,
+      "views": 194407,
+      "cover": null,
+      "coverWidth": null,
+      "coverHeight": null,
+      "media": [],
+      "excerpt": "",
+      "hasArticle": false,
+      "omittedCode": false
+    },
+    {
+      "id": "2119301955348824295",
+      "url": "https://x.com/DongQingAsk/status/2119301955348824295",
+      "author": "冬青",
+      "handle": "DongQingAsk",
+      "date": "2026-11-08",
+      "title": "新玩法：用 B 站 TOY 做网盘拉新和 CPS",
+      "summary": "在 B 站 TOY 里放网盘拉新、CPS 推广链接赚佣金。TOY 是真的，但作者还没有跑出成绩。",
+      "note": "官方 FAQ 禁止广告、站外跳转和第三方支付，这个玩法和规则冲突。建议改成免费工具加视频测需求。",
+      "cat": "搞钱玩法",
+      "likes": 350,
+      "saves": 660,
+      "views": 52168,
+      "cover": null,
+      "coverWidth": null,
+      "coverHeight": null,
+      "media": [],
+      "excerpt": "",
+      "hasArticle": false,
+      "omittedCode": false
+    },
+    {
+      "id": "2117185599153242143",
+      "url": "https://x.com/DongQingAsk/status/2117185599153242143",
+      "author": "冬青",
+      "handle": "DongQingAsk",
+      "date": "2026-11-02",
+      "title": "想做小程序赚钱，不知道做什么：上线五天日入 10 元，从 0 到 1 怎么做",
+      "summary": "用 AI 做小程序的完整过程：怎么找痛点和需求、开发、上线、变现。没有附完整源码。",
+      "note": "方向定为最窄的场景：用户会直接搜、一步用完、离钱近、有季节高峰。",
+      "cat": "小程序",
+      "likes": 560,
+      "saves": 987,
+      "views": 109318,
+      "cover": null,
+      "coverWidth": null,
+      "coverHeight": null,
+      "media": [],
+      "excerpt": "",
+      "hasArticle": false,
+      "omittedCode": false
+    },
+    {
+      "id": "2119676422101028915",
+      "url": "https://x.com/mingzi206/status/2119676422101028915",
+      "author": "明子206",
+      "handle": "mingzi206",
+      "date": "2026-11-09",
+      "title": "Gemma 4 31B 去审查版 GGUF（11.9GB）上架 Hugging Face",
+      "summary": "HF 上 Gemma 4 31B 去审查量化版（约 11.9GB，Apache-2.0）；作者称拒答率下降、可本地跑。模型：mradermacher/gemma-4-31B-it-ARA-heretic-GGUF。互动数据截至 2026-11-09 深夜。",
+      "note": "仓库链接属实；「去审查」效果与基准为作者自述，未独立复测。",
+      "cat": "AI工具",
+      "likes": 909,
+      "saves": 1455,
+      "views": 70126,
+      "cover": null,
+      "coverWidth": null,
+      "coverHeight": null,
+      "media": [],
+      "excerpt": "来了个大的！\n\nHugging Face 上刚杀出一个核弹级无审查模型，直接把社区整不会了\n\nGoogle 官方 Gemma 4 31B 旗舰的破甲完全体，体积压缩到了 11.9GB，Apache 2.0 协议无需许可随便下\n\n它的测试结果极其残暴： \n\n· 拒答率断崖式暴跌：实测 100 个刁钻测试提示词，原版道德圣母直接拒答 99 个，它硬生生降到了 28 个 \n· 31B 巨无霸本地直跑：通过极端量化把体积压到 11.9GB，12G 到 16G 显存的游戏本和家用 PC 也能当场开 \n· 零损耗卸掉道德枷锁：底层用正交消融手术切掉拒答神经，普通直答和深度思考双模式的说教全被清洗干净，智商分毫不损 \n· 逆向与渗透完全松绑：写渗透测试脚本、分析敏感源码、长文自由创作，再也不会被甩一脸「我无法协助该请求」\n\n完全开源免费，无需任何授权，想在本地跑一个完全听话、还是 31B 顶配尺寸大模型的兄弟建议直接马住！",
+      "hasArticle": false,
+      "omittedCode": false,
+      "bodyHtml": "<p>来了个大的！</p>\n<p>Hugging Face 上刚杀出一个核弹级无审查模型，直接把社区整不会了</p>\n<p>Google 官方 Gemma 4 31B 旗舰的破甲完全体，体积压缩到了 11.9GB，Apache 2.0 协议无需许可随便下</p>\n<p>它的测试结果极其残暴： </p>\n<p>· 拒答率断崖式暴跌：实测 100 个刁钻测试提示词，原版道德圣母直接拒答 99 个，它硬生生降到了 28 个 <br>· 31B 巨无霸本地直跑：通过极端量化把体积压到 11.9GB，12G 到 16G 显存的游戏本和家用 PC 也能当场开 <br>· 零损耗卸掉道德枷锁：底层用正交消融手术切掉拒答神经，普通直答和深度思考双模式的说教全被清洗干净，智商分毫不损 <br>· 逆向与渗透完全松绑：写渗透测试脚本、分析敏感源码、长文自由创作，再也不会被甩一脸「我无法协助该请求」</p>\n<p>完全开源免费，无需任何授权，想在本地跑一个完全听话、还是 31B 顶配尺寸大模型的兄弟建议直接马住！</p>\n<p>模型体验：<a href=\"https://t.co/eJrnen8Uri\" target=\"_blank\" rel=\"noopener noreferrer\">https://t.co/eJrnen8Uri</a></p>\n<p>你平时在本地跑大模型，遇到拒答最严重的是写代码还是角色扮演？#AI #大模型 #开源 #Gemma</p>"
+    },
+    {
+      "id": "2119268531678441646",
+      "url": "https://x.com/DIYgod/status/2119268531678441646",
+      "author": "DIYgod",
+      "handle": "DIYgod",
+      "date": "2026-11-08",
+      "title": "Pinky：让任何 AI Agent 操作你的 iPhone 和安卓手机",
+      "summary": "开源免费，Apache-2.0 许可。付款前等你点头，银行钱包类 App 默认对 AI 不可见，每一步都录屏。目前是早期测试版。",
+      "note": "可用小号手机在家里机上试，只读地翻抖音、小红书。",
+      "cat": "AI工具",
+      "likes": 1366,
+      "saves": 2152,
+      "views": 201795,
+      "cover": null,
+      "coverWidth": null,
+      "coverHeight": null,
+      "media": [],
+      "excerpt": "",
+      "hasArticle": false,
+      "omittedCode": false
+    },
+    {
+      "id": "2118843705327026400",
+      "url": "https://x.com/XCreators/status/2118843705327026400",
+      "author": "Creators",
+      "handle": "XCreators",
+      "date": "2026-11-06",
+      "title": "The ultimate guide to Grok Bot for creators",
+      "summary": "X 官方创作者账号发的 Grok Bot 创作者使用指南。",
+      "note": "已读过，作参考。",
+      "cat": "AI工具",
+      "likes": 3063,
+      "saves": 4820,
+      "views": 463645,
+      "cover": null,
+      "coverWidth": null,
+      "coverHeight": null,
+      "media": [],
+      "excerpt": "",
+      "hasArticle": false,
+      "omittedCode": false
+    },
+    {
+      "id": "2115775972536434946",
+      "url": "https://x.com/m4lkxx/status/2115775972536434946",
+      "author": "m4lka",
+      "handle": "m4lkxx",
+      "date": "2026-10-29",
+      "title": "Grok Bot: 6 Bots, 200+ Agents, a Smaller Bill (Full Setup)",
+      "summary": "Your Grok Bot is not expensive. Your setup is. People who exported usage found most tokens went to re-reading old chat, not doing work.",
+      "note": "已归档，收藏卡页面尚未收录。",
+      "cat": "AI工具",
+      "likes": 849,
+      "saves": 2857,
+      "views": 1110371,
+      "cover": null,
+      "coverWidth": null,
+      "coverHeight": null,
+      "media": [],
+      "excerpt": "Your Grok Bot is not expensive\nYour setup is\nIt wakes up every 15 minutes to find nothing\nIt re-reads your whole chat every time it does\nWhen I exported my usage, 75% of my tokens went to re-reading. Almost nothing went to actual work\nAnd the bill is only half the problem\nThe same bot is wearing seven hats\nIt answers your inbox in the voice of your code reviewer.",
+      "hasArticle": true,
+      "omittedCode": true
+    }
+  ]
+}
